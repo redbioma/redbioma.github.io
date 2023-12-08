@@ -1,4 +1,15 @@
 home:
-  heading: "Your awesome heading"
-  subheading: "Your awesome subheading"
-  banner: "Your image url"
+  heading: "RED - BIOMA"
+  subheading: "Red de Ciencia de datos para la Conservación de la Biodiversidad Mesoamericana"
+  banner:
+    image: "/assets/images/banners/leaf.jpg"
+    opacity: 0.7
+    background: "#000000"
+
+about:
+  title: Acerca de
+  subtitle: Conozca más de la Red Mesoamericana de Informática para la Biodiversidad
+  banner:
+    image: "/assets/images/banners/leaf.jpg"
+    opacity: 0.7
+    background: "#000000"
