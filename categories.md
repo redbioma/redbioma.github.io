@@ -1,4 +1,6 @@
 ---
 layout: categories
-title: Categories
+title:
 ---
+
+## Categorías
