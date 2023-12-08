@@ -21,7 +21,7 @@ html {
           transition: 0.1s color;
         }
 
-        @include media-query($on-laptop) {
+        @include media-query(1280px) {
           .page-link {
             color: $header-text-color;
           }
@@ -69,7 +69,7 @@ html {
   // Positioning context for the mobile navigation icon
   @include flex-sticky(0);
   z-index: 1000;
-
+  
   & > .wrapper {
     margin: 0 60px;
     padding: 0;
@@ -96,9 +96,10 @@ html {
   margin-right: 50px;
 
   .site-brand-inner {
-    @include relative-font-size(1.125);
+    @include relative-font-size(1.5);
     font-weight: $base-font-weight;
-    letter-spacing: -1px;
+    
+    // letter-spacing: -1px;
     transition: 0.1s filter color;
 
     &, &:visited {
@@ -110,6 +111,7 @@ html {
       height: $header-height / 1.5;
       margin-right: 5px;
     }
+
   }
 }
 
@@ -142,7 +144,7 @@ html {
     }
   }
 
-  @include media-query($on-laptop) {
+  @include media-query(1280px) {
     position: absolute;
     top: 0;
     text-align: left;
