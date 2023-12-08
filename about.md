@@ -24,6 +24,8 @@ Establecer una red mesoamericana de observadores e investigadores en biodiversid
 de la conservación mediante ciencias de datos, con un fuerte componente de fortalecimiento de capacidades y empoderamiento
 de mujeres de la región.
 
+![objetivos](/assets/images/thumbnails/objetivos_especificos.png)
+
 **Específicos**
 
 - Establecer una red mesoamericana de observadores e investigadores de la biodiversidad para fortalecer alianzas entre instituciones de la región y apoyar así el desarrollo de la ciencia, la educación y la conservación de la biodiversidad.
