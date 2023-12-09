@@ -33,7 +33,7 @@ de mujeres de la región.
 
 <br>
 
-![objetivos](assets/images/thumbnails/objetivos_especificos.png)
+![objetivos](assets/images/thumbnails/objetivos_especificos.jpg)
 
 
 <br>
