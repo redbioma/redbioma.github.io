@@ -1,38 +1,56 @@
 ---
 layout: about
-title: Acerca de
+title: Acerca de RedBioma
+subtitle: Red Mesoamericana de Informática para la Biodiversidad
+
 author: sjcr23
 permalink: /about.html
 ---
 
-## Red Mesoamericana de Informática para la Biodiversidad
+## Sobre la red
 
-El objetivo de la red es proponer soluciones a problemas de la conservación mediante ciencia de datos, 
+<div style="text-align: justify">
+El objetivo de la Red Mesoamericana de Informática para la Biodiversidad es proponer soluciones a problemas de la conservación mediante ciencia de datos,
 con un fuerte componente de fortalecimiento de capacidades y empoderamiento de mujeres de la región.
 
-Este proyecto permitirá fortalecer alianzas entre instituciones de la región mesoamericana, conocer 
-algunas de las necesidades de los participantes asociadas al uso sostenible y la conservación de la 
-biodiversidad, implementar un portal de datos abiertos que integre datos e información sobre biodiversidad 
-y fortalecer capacidades en temas de ciencia de datos para apoyar así el desarrollo de la ciencia, la educación y 
-la conservación de la biodiversidad dando prioridad a los grupos más vulnerables de la población mesoamericana 
+Este proyecto permitirá fortalecer alianzas entre instituciones de la región mesoamericana, conocer
+algunas de las necesidades de los participantes asociadas al uso sostenible y la conservación de la
+biodiversidad, implementar un portal de datos abiertos que integre datos e información sobre biodiversidad
+y fortalecer capacidades en temas de ciencia de datos para apoyar así el desarrollo de la ciencia, la educación y
+la conservación de la biodiversidad dando prioridad a los grupos más vulnerables de la población mesoamericana
+</div>
 
 ### Objetivos
 
-**General**
-
+<div style="text-align: justify">
+<b>General</b>
+<br>
 Establecer una red mesoamericana de observadores e investigadores en biodiversidad para proponer soluciones a problemas
 de la conservación mediante ciencias de datos, con un fuerte componente de fortalecimiento de capacidades y empoderamiento
 de mujeres de la región.
 
+</div>
+
+<br>
+
 ![objetivos](/assets/images/thumbnails/objetivos_especificos.png)
 
-**Específicos**
 
-- Establecer una red mesoamericana de observadores e investigadores de la biodiversidad para fortalecer alianzas entre instituciones de la región y apoyar así el desarrollo de la ciencia, la educación y la conservación de la biodiversidad.
-- Evaluar y priorizar las necesidades de los participantes asociadas al uso sostenible y la conservación de la biodiversidad en la región centroamericana.
-- Implementar con software libre un portal mesoamericano de biodiversidad que integre datos de múltiples fuentes, para apoyar la investigación y la conservación.
-- Fortalecer en mujeres de la región centroamericana capacidades de investigación por medio de talleres de análisis de datos de biodiversidad, cursos de nivelación en lenguajes de programación y del Programa de Ciencias de Datos para actualización profesional que ofrece la Escuela de Computación del ITCR.
-- Fortalecer capacidades en agrupaciones comunitarias en mesoamérica en el uso de tecnología informática para la estandarización, integración, publicación y análisis de datos de biodiversidad.
+<br>
+<div style="text-align: justify">
+<b>Específicos</b>
+<br>
+
+<ul>
+<li>Establecer una red mesoamericana de observadores e investigadores de la biodiversidad para fortalecer alianzas entre instituciones de la región y apoyar así el desarrollo de la ciencia, la educación y la conservación de la biodiversidad.</li>
+<li>Evaluar y priorizar las necesidades de los participantes asociadas al uso sostenible y la conservación de la biodiversidad en la región centroamericana.</li>
+<li>Implementar con software libre un portal mesoamericano de biodiversidad que integre datos de múltiples fuentes, para apoyar la investigación y la conservación.</li>
+<li>Fortalecer en mujeres de la región centroamericana capacidades de investigación por medio de talleres de análisis de datos de biodiversidad, cursos de nivelación en lenguajes de programación y del Programa de Ciencias de Datos para actualización profesional que ofrece la Escuela de Computación del ITCR.</li>
+<li>Fortalecer capacidades en agrupaciones comunitarias en mesoamérica en el uso de tecnología informática para la estandarización, integración, publicación y análisis de datos de biodiversidad.</li>
+</ul>
+
+</div>
+
 
 ### Públicos meta de la red
 
