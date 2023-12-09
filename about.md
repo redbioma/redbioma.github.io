@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Acerca de RedBioma
+title: Acerca de
 subtitle: Red Mesoamericana de Informática para la Biodiversidad
 
 author: sjcr23
