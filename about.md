@@ -33,7 +33,7 @@ de mujeres de la región.
 
 <br>
 
-<img src="/assets/images/thumbnails/objetivos_especificos.png" />
+![objetivos](https://github.com/itcr-bio/redbioma-test/blob/master/assets/images/thumbnails/objetivos_especificos.png)
 
 
 <br>
