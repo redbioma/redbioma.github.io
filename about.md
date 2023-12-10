@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Acerca de
-subtitle: Red Mesoamericana de Informática para la Biodiversidad
+subtitle: Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana
 
 author: sjcr23
 permalink: /about.html
@@ -51,31 +51,45 @@ de mujeres de la región.
 
 </div>
 
-
 ### Públicos meta de la red
 
+<div style="text-align: justify">
 Investigadores de la región mesoamericana como ingenieros forestales, biólogos, investigadores en biodiversidad, especialistas en estadística y personas del área de Ciencia, Tecnología, Ingeniería y Matemáticas (STEM por sus siglas en inglés), entre otros perfiles.
-
-El proyecto se está desarrollando como parte del proyecto "Fortaleciendo sistemas inclusivos de ciencia e innovación en América Latina, a través de una red de investigación colaborativa" coordinado por Consejo Superior Universitario Centroamericano (CSUCA) con fondos del IDRC.
-
+<br>
+<br>
+El proyecto se está desarrollando como parte del proyecto "Fortaleciendo sistemas inclusivos de ciencia e innovación en América Latina, a través de una red de investigación colaborativa" coordinado por Consejo Superior Universitario Centroamericano <a hrref="https://pridca.csuca.org/">(CSUCA)</a> con fondos del <a hrref="https://idrc-crdi.ca/es">IDRC.</a>
+</div>
 ---
 
 ## ¿Quiénes somos?  
 
-**Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO)**
+<div style="text-align: justify">
+<b>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO)</b>
+<br>
+La <a href= "https://www.gob.mx/conabio">CONABIO</a> tiene la misión de promover, coordinar, apoyar y realizar actividades dirigidas al conocimiento de la diversidad biológica, así como a su conservación y uso sustentable para beneficio de la sociedad. Fue concebida como una organización de investigación aplicada, promotora de investigación básica, que compila y genera información sobre biodiversidad, desarrolla capacidades humanas en el área de informática de la biodiversidad y es fuente pública de información y conocimiento accesible para toda la sociedad.
+</div>
 
-La CONABIO tiene la misión de promover, coordinar, apoyar y realizar actividades dirigidas al conocimiento de la diversidad biológica, así como a su conservación y uso sustentable para beneficio de la sociedad. Fue concebida como una organización de investigación aplicada, promotora de investigación básica, que compila y genera información sobre biodiversidad, desarrolla capacidades humanas en el área de informática de la biodiversidad y es fuente pública de información y conocimiento accesible para toda la sociedad.
+<br>
 
-**Consejo Nacional de Áreas Protegidas (CONAP), Por medio del Nodo GBIF Guatemala, Sistema Nacional de Información sobre Diversidad Biológica “SNIBgt”**
+**Consejo Nacional de Áreas Protegidas [(CONAP)](https://conap.gob.gt/), Por medio del Nodo GBIF Guatemala, Sistema Nacional de Información sobre Diversidad Biológica “SNIBgt”**
 
-**Instituto Tecnológico de Costa Rica**
+<div style="text-align: justify">
+<b>Instituto Tecnológico de Costa Rica</b>
+<br>
+El Tecnológico de Costa Rica <a href= "https://www.tec.ac.cr/">(TEC)</a> es una institución costarricense autónoma de educación superior universitaria, dedicada a la docencia, la investigación y la extensión de la tecnología y las ciencias conexas para el desarrollo del país.  La institución fue creada con la misión de contribuir al desarrollo integral del país, mediante formación del recurso humano, la investigación y la extensión; manteniendo el liderazgo científico, tecnológico y técnico, la excelencia académica y el estricto apego a las normas éticas, humanísticas y ambientales, desde una perspectiva universitaria estatal de calidad y competitividad a nivel nacional e internacional.
+</div>
+<br>
 
-El Tecnológico de Costa Rica (TEC) es una institución costarricense autónoma de educación superior universitaria, dedicada a la docencia, la investigación y la extensión de la tecnología y las ciencias conexas para el desarrollo del país.  La institución fue creada con la misión de contribuir al desarrollo integral del país, mediante formación del recurso humano, la investigación y la extensión; manteniendo el liderazgo científico, tecnológico y técnico, la excelencia académica y el estricto apego a las normas éticas, humanísticas y ambientales, desde una perspectiva universitaria estatal de calidad y competitividad a nivel nacional e internacional.
+<div style="text-align: justify">
+<b>Museo Entomológico de León, Nicaragua</b>
+<br>
+El <a href="http://bio-nica.info/topic/index.html">Museo Entomológico de León</a> posee la mayor colección entomológica del país. Su director funge como Editor de la Revista Nicaragüense de Entomología (fundada en 1987) y de la revista Nicaragüense de Biodiversidad (fundada en 2015), ambas con el objetivo de divulgar los trabajos realizados en Nicaragua y países vecinos.calidad y competitividad a nivel nacional e internacional.
+</div>
+<br>
 
-**Museo Entomológico de León, Nicaragua.**
-
-El Museo Entomológico de León posee la mayor colección entomológica del país. Su director funge como Editor de la Revista Nicaragüense de Entomología (fundada en 1987) y de la revista Nicaragüense de Biodiversidad (fundada en 2015), ambas con el objetivo de divulgar los trabajos realizados en Nicaragua y países vecinos.
-
-**Manuel Vargas.** Investigador en Informática de la Biodiversidad
-
-Manuel Vargas actualmente es profesor en la Escuela de Geografía de la UCR y también ha impartido clases en el Programa de Posgrado en Sistemas de Información Geográfica y Teledetección de la UCR y la UNA, la Maestría en Gestión del Recurso Hídrico de la UCR y el Programa de Posgrado en Computación e Informática de la UCR. El señor Vargas es informático especializado en procesamiento de información geoespacial. Sus áreas de trabajo incluyen también informática de la biodiversidad, clasificación del uso y cobertura de la tierra, y visualización y análisis de datos en general.  Como parte de su experiencia laboral, ha trabajado en el Instituto Nacional de Biodiversidad (INBio) y ha participado como consultor en diversos proyectos en la Conagebio, el PNUD, el IMN y el Catie, entre otras instituciones. 
+<div style="text-align: justify">
+<b>Manuel Vargas. Investigador en Informática de la Biodiversidad</b>
+<br>
+<a href="https://geografia.fcs.ucr.ac.cr/index.php/component/contact/contact/27-docentes/45-manuel-vargas-del-valle">Manuel Vargas</a> actualmente es profesor en la Escuela de Geografía de la UCR y también ha impartido clases en el Programa de Posgrado en Sistemas de Información Geográfica y Teledetección de la UCR y la UNA, la Maestría en Gestión del Recurso Hídrico de la UCR y el Programa de Posgrado en Computación e Informática de la UCR. El señor Vargas es informático especializado en procesamiento de información geoespacial. Sus áreas de trabajo incluyen también informática de la biodiversidad, clasificación del uso y cobertura de la tierra, y visualización y análisis de datos en general.  Como parte de su experiencia laboral, ha trabajado en el Instituto Nacional de Biodiversidad (INBio) y ha participado como consultor en diversos proyectos en la Conagebio, el PNUD, el IMN y el Catie, entre otras instituciones.
+</div>
+<br>
