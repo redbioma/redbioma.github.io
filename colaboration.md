@@ -1,6 +1,6 @@
 ---
 layout: about
-title: ¿Cómo colaborar?
+title: ¿Cómo participar?
 permalink: /colaboration.html
 ---
 
