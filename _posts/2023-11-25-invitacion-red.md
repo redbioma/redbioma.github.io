@@ -14,4 +14,23 @@ banner:
 permalink: "/:categories/:title.html"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<div style="text-align: justify">
+La Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana [redbioma.org](redbioma.github.io) le invita a ser parte de la iniciativa por medio de llenar este formulario. 
+<br>
+<br>
+El objetivo de la red es proponer soluciones a problemas de la conservación mediante ciencia de datos, con un fuerte componente de fortalecimiento de capacidades y empoderamiento de mujeres de la región.
+<br>
+<br>
+
+<b>Este proyecto permitirá:</b>
+</div>
+
+- Fortalecer alianzas entre instituciones de la región mesoamericana.
+- Conocer algunas de las necesidades de los participantes asociadas al uso sostenible y la conservación de la biodiversidad en la región.
+- Implementar un portal de datos abiertos que integre datos e información sobre biodiversidad.
+- Fortalecer capacidades en temas de ciencia de datos para apoyar así el desarrollo de la ciencia, la educación y la conservación de la biodiversidad dando prioridad a los grupos más vulnerables de la población mesoamericana.
+- Ser parte de la red le ayudará a conocer herramientas novedosas y a intercambiar experiencias, datos y conocimiento sobre la biodiversidad con personas de la región.
+
+**Nota:** *Los datos personales recopilados por medio de este cuestionario no serán publicados solamente serán utilizados para conocer las necesidades en informática de la biodiversidad de la región.*
+
+Más información en [redbioma.org](redbioma.github.io)
