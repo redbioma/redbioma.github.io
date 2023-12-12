@@ -19,6 +19,7 @@ html {
         .site-brand-inner, .page-link {
           color: #fff;
           transition: 0.1s color;
+          text-shadow: 1px 1px 4px black;
         }
 
         @include media-query(1280px) {

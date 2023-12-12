@@ -3,7 +3,6 @@ layout: about
 title: Acerca de
 subtitle: Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana
 
-author: sjcr23
 permalink: /about.html
 ---
 
