@@ -37,7 +37,7 @@ de mujeres de la región.
 
 <br>
 <div style="text-align: justify">
-<b>Específicos</b>
+<b>Objetivos Específicos</b>
 <br>
 
 <ul>
@@ -50,14 +50,27 @@ de mujeres de la región.
 
 </div>
 
+<br>
+
+---
+
 ### Públicos meta de la red
 
 <div style="text-align: justify">
-Investigadores de la región mesoamericana como ingenieros forestales, biólogos, investigadores en biodiversidad, especialistas en estadística y personas del área de Ciencia, Tecnología, Ingeniería y Matemáticas (STEM por sus siglas en inglés), entre otros perfiles.
+Personas que realicen en investigación en la región mesoamericana en Ingeniería forestal, Biología, Biodiversidad, Estadística, Ciencia de Datos, Tecnología de Información, Ingeniería y Matemáticas (STEM por sus siglas en inglés), entre otras áreas.
+</div>
+
 <br>
-<br>
+
+---
+
+### Créditos
+<div style="text-align: justify">
 El proyecto se está desarrollando como parte del proyecto "Fortaleciendo sistemas inclusivos de ciencia e innovación en América Latina, a través de una red de investigación colaborativa" coordinado por Consejo Superior Universitario Centroamericano <a hrref="https://pridca.csuca.org/">(CSUCA)</a> con fondos del <a hrref="https://idrc-crdi.ca/es">IDRC.</a>
 </div>
+
+<br>
+
 ---
 
 ## ¿Quiénes somos?  
@@ -89,6 +102,6 @@ El <a href="http://bio-nica.info/topic/index.html">Museo Entomológico de León<
 <div style="text-align: justify">
 <b>Manuel Vargas. Investigador en Informática de la Biodiversidad</b>
 <br>
-<a href="https://geografia.fcs.ucr.ac.cr/index.php/component/contact/contact/27-docentes/45-manuel-vargas-del-valle">Manuel Vargas</a> actualmente es profesor en la Escuela de Geografía de la UCR y también ha impartido clases en el Programa de Posgrado en Sistemas de Información Geográfica y Teledetección de la UCR y la UNA, la Maestría en Gestión del Recurso Hídrico de la UCR y el Programa de Posgrado en Computación e Informática de la UCR. El señor Vargas es informático especializado en procesamiento de información geoespacial. Sus áreas de trabajo incluyen también informática de la biodiversidad, clasificación del uso y cobertura de la tierra, y visualización y análisis de datos en general.  Como parte de su experiencia laboral, ha trabajado en el Instituto Nacional de Biodiversidad (INBio) y ha participado como consultor en diversos proyectos en la Conagebio, el PNUD, el IMN y el Catie, entre otras instituciones.
+<a href="https://github.com/mfvargas">Manuel Vargas</a> actualmente es profesor en la Escuela de Geografía de la UCR y también ha impartido clases en el Programa de Posgrado en Sistemas de Información Geográfica y Teledetección de la UCR y la UNA, la Maestría en Gestión del Recurso Hídrico de la UCR y el Programa de Posgrado en Computación e Informática de la UCR. El señor Vargas es informático especializado en procesamiento de información geoespacial. Sus áreas de trabajo incluyen también informática de la biodiversidad, clasificación del uso y cobertura de la tierra, y visualización y análisis de datos en general.  Como parte de su experiencia laboral, ha trabajado en el Instituto Nacional de Biodiversidad (INBio) y ha participado como consultor en diversos proyectos en la Conagebio, el PNUD, el IMN y el Catie, entre otras instituciones.
 </div>
 <br>
