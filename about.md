@@ -4,6 +4,7 @@ title: Acerca de
 subtitle: Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana
 date: "11-12-2023"
 permalink: /about.html
+author: María Mora Cross
 ---
 
 ## Sobre la red
