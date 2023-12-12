@@ -32,5 +32,3 @@ El objetivo de la red es proponer soluciones a problemas de la conservación med
 - Ser parte de la red le ayudará a conocer herramientas novedosas y a intercambiar experiencias, datos y conocimiento sobre la biodiversidad con personas de la región.
 
 **Nota:** *Los datos personales recopilados por medio de este cuestionario no serán publicados solamente serán utilizados para conocer las necesidades en informática de la biodiversidad de la región.*
-
-Más información en [redbioma.org](redbioma.github.io)
