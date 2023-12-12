@@ -10,14 +10,9 @@ author: María Mora Cross
 ## Sobre la red
 
 <div style="text-align: justify">
-El objetivo de la Red Mesoamericana de Informática para la Biodiversidad es proponer soluciones a problemas de la conservación mediante ciencia de datos,
-con un fuerte componente de fortalecimiento de capacidades y empoderamiento de mujeres de la región.
-
-Este proyecto permitirá fortalecer alianzas entre instituciones de la región mesoamericana, conocer
-algunas de las necesidades de los participantes asociadas al uso sostenible y la conservación de la
-biodiversidad, implementar un portal de datos abiertos que integre datos e información sobre biodiversidad
-y fortalecer capacidades en temas de ciencia de datos para apoyar así el desarrollo de la ciencia, la educación y
-la conservación de la biodiversidad dando prioridad a los grupos más vulnerables de la población mesoamericana
+El objetivo de la red es proponer soluciones a problemas de la conservación mediante ciencia de datos, con un fuerte componente de fortalecimiento de capacidades y empoderamiento de mujeres de la región.
+<br><br>
+Este proyecto permitirá fortalecer alianzas entre instituciones de la región mesoamericana, conocer algunas de las necesidades de las personas participantes asociadas al uso sostenible y la conservación de la biodiversidad, implementar un portal de datos abiertos que integre datos e información sobre biodiversidad y fortalecer capacidades en temas de ciencia de datos para apoyar así el desarrollo de la ciencia, la educación y la conservación de la biodiversidad dando prioridad a los grupos más vulnerables de la población mesoamericana.
 </div>
 
 ### Objetivos
@@ -58,16 +53,7 @@ de mujeres de la región.
 ### Públicos meta de la red
 
 <div style="text-align: justify">
-Personas que realicen en investigación en la región mesoamericana en Ingeniería forestal, Biología, Biodiversidad, Estadística, Ciencia de Datos, Tecnología de Información, Ingeniería y Matemáticas (STEM por sus siglas en inglés), entre otras áreas.
-</div>
-
-<br>
-
----
-
-### Créditos
-<div style="text-align: justify">
-El proyecto se está desarrollando como parte del proyecto "Fortaleciendo sistemas inclusivos de ciencia e innovación en América Latina, a través de una red de investigación colaborativa" coordinado por Consejo Superior Universitario Centroamericano <a hrref="https://pridca.csuca.org/">(CSUCA)</a> con fondos del <a hrref="https://idrc-crdi.ca/es">IDRC.</a>
+Personas que realicen investigación en la región mesoamericana en ingeniería forestal, biología, biodiversidad, estadística, ciencia de datos, tecnologías de la información, ingeniería y matemáticas, entre otras áreas relacionadas.
 </div>
 
 <br>
@@ -84,12 +70,24 @@ La <a href= "https://www.gob.mx/conabio">CONABIO</a> tiene la misión de promove
 
 <br>
 
-**Consejo Nacional de Áreas Protegidas [(CONAP)](https://conap.gob.gt/), Por medio del Nodo GBIF Guatemala, Sistema Nacional de Información sobre Diversidad Biológica “SNIBgt”**
+<div style="text-align: justify">
+<b>Consejo Nacional de Áreas Protegidas <a href="https://conap.gob.gt/">(CONAP)</a>, Por medio del Nodo GBIF Guatemala, Sistema Nacional de Información sobre Diversidad Biológica “SNIBgt”</b>
+<br>
+La MISIÓN DEL CONAP es propiciar e impulsar la conservación, de Áreas Protegidas y la Diversidad Biológica, planificando, coordinando e implementando las 
+políticas y modelos de conservación necesarios, trabajando conjuntamente con otros actores, contribuyendo al crecimiento desarrollo sostenible del País.
+</div>
+
+<br>
 
 <div style="text-align: justify">
-<b>Instituto Tecnológico de Costa Rica</b>
+<b>Escuela de Ingeniería en Computación, Instituto Tecnológico de Costa Rica (ITCR)</b>
 <br>
 El Tecnológico de Costa Rica <a href= "https://www.tec.ac.cr/">(TEC)</a> es una institución costarricense autónoma de educación superior universitaria, dedicada a la docencia, la investigación y la extensión de la tecnología y las ciencias conexas para el desarrollo del país.  La institución fue creada con la misión de contribuir al desarrollo integral del país, mediante formación del recurso humano, la investigación y la extensión; manteniendo el liderazgo científico, tecnológico y técnico, la excelencia académica y el estricto apego a las normas éticas, humanísticas y ambientales, desde una perspectiva universitaria estatal de calidad y competitividad a nivel nacional e internacional.
+
+<br><br>
+
+La Escuela de Ingeniería en Computación del ITCR  tiene como misión contribuir a la sociedad costarricense en la generación de conocimiento científico-tecnológico en computación a través de la docencia, investigación, extensión y vinculación externa, basados en principios de excelencia académica, pertinencia social, regionalización, equidad y formación integral.  
+
 </div>
 <br>
 
