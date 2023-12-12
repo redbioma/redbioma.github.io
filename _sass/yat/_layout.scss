@@ -19,7 +19,10 @@ html {
         .site-brand-inner, .page-link {
           color: #fff;
           transition: 0.1s color;
-          text-shadow: 1px 1px 4px black;
+          
+          @include media-query($on-palm){
+            text-shadow: 0px 0px 100px rgba(255, 255, 255, 0);
+          }
         }
 
         @include media-query(1280px) {
@@ -109,8 +112,11 @@ html {
 
     .site-favicon {
       display: inline-block;
-      height: $header-height / 1.5;
+      height: $header-height / 1.8;
       margin-right: 5px;
+      @include media-query($on-palm){
+        height: $header-height / 2;
+      }
     }
 
   }
@@ -593,7 +599,7 @@ html {
   height: $banner-height;
   background-color: $banner-background;
   transition: height 0.2s;
-
+  
   .page-banner-img {
     position: absolute;
     width: 100%;
@@ -698,7 +704,7 @@ html {
   }
 
   @include media-query($on-palm) {
-    height: $banner-height / 1.5;
+    height: 340px;
   }
 }
 
