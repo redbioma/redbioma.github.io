@@ -15,7 +15,7 @@ permalink: "/:categories/:title.html"
 ---
 
 <div style="text-align: justify">
-La Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana [redbioma.org](redbioma.github.io) le invita a ser parte de la iniciativa por medio de llenar este formulario. 
+La Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana le invita a ser parte de la iniciativa por medio de llenar este formulario. 
 <br>
 <br>
 El objetivo de la red es proponer soluciones a problemas de la conservación mediante ciencia de datos, con un fuerte componente de fortalecimiento de capacidades y empoderamiento de mujeres de la región.
