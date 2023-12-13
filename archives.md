@@ -1,5 +1,5 @@
 ---
 layout: archives
 title: Actividades
-permalink: /proyects.html
+permalink: /archives.html
 ---
