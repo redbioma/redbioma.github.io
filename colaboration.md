@@ -5,6 +5,16 @@ subtitle: Red de Ciencia de Datos para la Conservación de la Biodiversidad Meso
 permalink: /colaboration.html
 date: 12-12-2023
 author: María Mora Cross
+
+banner:
+    image: "/assets/images/banners/AraMacao.jpg"
+    opacity: 0.7
+    background: "#000000"
+    heading_style: "color: white; text-shadow: 1px 1px 4px black;"
+    subheading_style: "color: white; text-shadow: 1px 1px 4px black;"
+    has_credits: true
+    scientific_name: "Ara macao"
+    author: "Tania Urquiza-Haas"
 ---
 
 <div style="text-align: justify">
