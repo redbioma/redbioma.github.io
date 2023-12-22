@@ -4,7 +4,7 @@ author: sjcr23
 title: Formulario para participar del Programa de Ciencia de Datos
 subtitle: Formando personas líderes en Ciencia de Datos
 categories: Formularios
-tags: Capaciación ITCR STEM
+tags: Capacitación ITCR STEM
 banner: 
     image: "/assets/images/thumbnails/forms.png"
     opacity: 0.7
