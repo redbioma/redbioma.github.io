@@ -100,8 +100,14 @@
           })();
         </script>
       {%- else -%}
-        <div style="background-image: url({{ banner_image }})"></div>
-        <img class="img-placeholder" src="{{ banner_image }}">
+        <div style="display: flex; align-items: flex-end; background-image: url({{ banner_image }})">
+          {%- if has_credits -%}
+            <div style="background-color: rgba(114, 114, 114, 0.514); position:static;">
+              <a style="color: white; margin-left: 0.5rem; margin-right: 0.5rem;"> <i>{{ banner_sceintific_name }}.</i> Foto: {{ banner_author }}.</a>
+            </div>
+            {%- endif -%}
+          </div>
+          <img class="img-placeholder" src="{{ banner_image }}">
       {%- endif -%}
     </div>
     <div class="wrapper">
@@ -125,6 +131,7 @@
 
         {%- endif -%}
       </div>
+      
     </div>
   </section>
 {%- endif -%}
