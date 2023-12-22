@@ -4,7 +4,7 @@ author: sjcr23
 title: Formulario para ser parte de la redbioma
 
 categories: Formularios
-tags: Capaciación STEM
+tags: Capacitación STEM
 banner: 
     image: "/assets/images/thumbnails/forms.png"
     opacity: 0.7
