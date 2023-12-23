@@ -7,6 +7,8 @@ home:
     background: "#000000"
     heading_style: "color: white; text-shadow: 1px 1px 4px black;"
     subheading_style: "color: white; text-shadow: 1px 1px 4px black;"
+    scientific_name: "Tabebuia rosea"
+    author: "Tania Urquiza-Haas"
 
 about:
   title: Acerca de
@@ -17,3 +19,6 @@ about:
     background: "#000000"
     heading_style: "color: white; text-shadow: 1px 1px 4px black;"
     subheading_style: "color: white; text-shadow: 1px 1px 4px black;"
+    has_credits: true
+    scientific_name: "Hamadryas februa"
+    author: "Tania Urquiza-Haas"

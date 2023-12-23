@@ -66,3 +66,17 @@
   {% assign has_banner = true %}
 {% endif %}
 
+
+{%- include functions.html func='log' level='debug' msg='Get banner_author value' -%}
+{% assign name = 'banner.author' %}
+{%- include functions.html func='get_value' -%}
+{% assign banner_author = return %}
+
+{%- include functions.html func='log' level='debug' msg='Get banner_sceintific_name value' -%}
+{% assign name = 'banner.scientific_name' %}
+{%- include functions.html func='get_value' -%}
+{% assign banner_sceintific_name = return %}
+
+{% if banner_author and banner_sceintific_name %}
+  {% assign has_credits = true %}
+{% endif %}
