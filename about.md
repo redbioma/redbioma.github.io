@@ -63,17 +63,19 @@ Personas que realicen investigación en la región mesoamericana en ingeniería 
 ## ¿Quiénes somos?  
 
 <div style="text-align: justify">
-    <b>Comisión Nacional para la Gestión de la Biodiversidad (CONAGEBIO)</b>
+    <b>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO)</b>
     <br>
-    Mediante la Ley de Biodiversidad N° 7788 se crea a la Comisión Nacional para la Gestión de la Biodiversidad <a href="https://www.conagebio.go.cr/">(CONAGEBIO)</a>, compuesta por la Comisión Plenaria (CP) y la Oficina Técnica, como un órgano de desconcentración máxima del Ministerio de Ambiente y Energía (MINAE) dotándola de recursos propios. La CONAGEBIO tiene como misión articular la gestión integral de la biodiversidad para contribuir a su conservación y uso sostenible, promoviendo la participación de la sociedad y la distribución justa y equitativa de los beneficios derivados.
+    La <a href= "https://www.gob.mx/conabio">CONABIO</a> tiene la misión de promover, coordinar, apoyar y realizar actividades dirigidas al conocimiento de la diversidad biológica, así como a su conservación y uso sustentable para beneficio de la sociedad. Fue concebida como una organización de investigación aplicada, promotora de investigación básica, que compila y genera información sobre biodiversidad, desarrolla capacidades humanas en el área de informática de la biodiversidad y es fuente pública de información y conocimiento accesible para toda la sociedad.
 </div>
 
 <br>
 
 <div style="text-align: justify">
-    <b>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO)</b>
+    <b>Comisión Nacional para la Gestión de la Biodiversidad <a href="https://www.conagebio.go.cr/">(CONAGEBIO)</a></b>
     <br>
-    La <a href= "https://www.gob.mx/conabio">CONABIO</a> tiene la misión de promover, coordinar, apoyar y realizar actividades dirigidas al conocimiento de la diversidad biológica, así como a su conservación y uso sustentable para beneficio de la sociedad. Fue concebida como una organización de investigación aplicada, promotora de investigación básica, que compila y genera información sobre biodiversidad, desarrolla capacidades humanas en el área de informática de la biodiversidad y es fuente pública de información y conocimiento accesible para toda la sociedad.
+    CONAGEBIO es un órgano de desconcentración máxima del Ministerio de Ambiente y Energía (MINAE) de Costa Rica, creado por la Ley de Biodiversidad Nº 7788. Debido a que Costa Rica, es considerada uno de los países con mayor riqueza biológica del mundo, se le dio la Misión a CONAGEBIO de articular la gestión integral de la biodiversidad para contribuir a su conservación y uso sostenible, promoviendo la participación de la sociedad y la distribución justa y equitativa de los beneficios derivados. Durante la construcción de la “Segunda Estrategia Nacional de Biodiversidad 2016-2025”, se identificó la necesidad de contar con un mecanismo integral que permita al Estado disponer de información certera sobre la biodiversidad, para que pueda ser integrada en la política y planificación nacional de desarrollo.
+    <br><br>
+    Por tanto, la CONAGEBIO inició en el año 2017 el diseño de la Plataforma Informática para la Gestión del Conocimiento y la Información Nacional sobre la Biodiversidad de Costa Rica (PGCIB), la cual pasó a llamarse <a href="http://biodiversidad.go.cr/">BIODATACR.</a> La principal función de BIODATACR es proveer acceso libre y gratuito a datos e información sobre la biodiversidad de Costa Rica, por medio de tecnología informática que permita integrar y visualizar esta información para apoyar el desarrollo de la ciencia, la educación y la conservación de la biodiversidad. Asimismo, el gobierno de Costa Rica tomó la decisión de crear la Comisión Interinstitucional para la Gestión del Conocimiento y la Información sobre Biodiversidad (CIGECIB), la cual es el ente encargado de recomendar las estrategias y acciones necesarias para el desarrollo y consolidación de BIODATACR, así como de gestionar el apoyo técnico y financiero. Esta comisión actúa en forma ad honorem, bajo la coordinación de la CONAGEBIO. Actualmente, se encuentra conformada por un representante de cada una de las siguientes instituciones: CONAGEBIO, CENIGA, SINAC, MNCR, MICITT Y CONARE. Estas medidas se implementaron mediante el Decreto Ejecutivo 40725-MINAE, el cual creó la CIGECIB y declaró de interés público BIODATACR, para que así cuenten con permanencia en el tiempo y fundamentación legal.
 </div>
 
 <br>

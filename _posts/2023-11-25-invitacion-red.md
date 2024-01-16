@@ -15,13 +15,14 @@ permalink: "/:categories/:title.html"
 ---
 
 <div style="text-align: justify">
-La Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana le invita a participar de las actividades programadas por medio de llenar este formulario.
-<br>
-<br>
+La Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana le invita a participar de las actividades programadas por medio de llenar este formulario. El formulario nos va a permitir conocer las necesidades de los usuarios interesados en las actividades de capacitación y otros temas relacionados con la red.
+
+<br><br>
+
 El objetivo de la red es proponer soluciones a problemas de la conservación mediante ciencia de datos, con un fuerte componente de fortalecimiento de capacidades y empoderamiento de mujeres de la región.
 </div>
 
-## Este proyecto permitirá
+## Las actividades de la redbioma permitirán
 
 <ul style="text-align: justify">
 
