@@ -63,44 +63,51 @@ Personas que realicen investigación en la región mesoamericana en ingeniería 
 ## ¿Quiénes somos?  
 
 <div style="text-align: justify">
-<b>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO)</b>
-<br>
-La <a href= "https://www.gob.mx/conabio">CONABIO</a> tiene la misión de promover, coordinar, apoyar y realizar actividades dirigidas al conocimiento de la diversidad biológica, así como a su conservación y uso sustentable para beneficio de la sociedad. Fue concebida como una organización de investigación aplicada, promotora de investigación básica, que compila y genera información sobre biodiversidad, desarrolla capacidades humanas en el área de informática de la biodiversidad y es fuente pública de información y conocimiento accesible para toda la sociedad.
+    <b>Comisión Nacional para la Gestión de la Biodiversidad (CONAGEBIO)</b>
+    <br>
+    Mediante la Ley de Biodiversidad N° 7788 se crea a la Comisión Nacional para la Gestión de la Biodiversidad <a href="https://www.conagebio.go.cr/">(CONAGEBIO)</a>, compuesta por la Comisión Plenaria (CP) y la Oficina Técnica, como un órgano de desconcentración máxima del Ministerio de Ambiente y Energía (MINAE) dotándola de recursos propios. La CONAGEBIO tiene como misión articular la gestión integral de la biodiversidad para contribuir a su conservación y uso sostenible, promoviendo la participación de la sociedad y la distribución justa y equitativa de los beneficios derivados.
 </div>
 
 <br>
 
 <div style="text-align: justify">
-<b>Consejo Nacional de Áreas Protegidas <a href="https://conap.gob.gt/">(CONAP)</a>, Por medio del Nodo GBIF Guatemala, Sistema Nacional de Información sobre Diversidad Biológica “SNIBgt”</b>
-<br>
-La MISIÓN DEL CONAP es propiciar e impulsar la conservación, de Áreas Protegidas y la Diversidad Biológica, planificando, coordinando e implementando las 
-políticas y modelos de conservación necesarios, trabajando conjuntamente con otros actores, contribuyendo al crecimiento desarrollo sostenible del País.
+    <b>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO)</b>
+    <br>
+    La <a href= "https://www.gob.mx/conabio">CONABIO</a> tiene la misión de promover, coordinar, apoyar y realizar actividades dirigidas al conocimiento de la diversidad biológica, así como a su conservación y uso sustentable para beneficio de la sociedad. Fue concebida como una organización de investigación aplicada, promotora de investigación básica, que compila y genera información sobre biodiversidad, desarrolla capacidades humanas en el área de informática de la biodiversidad y es fuente pública de información y conocimiento accesible para toda la sociedad.
 </div>
 
 <br>
 
 <div style="text-align: justify">
-<b>Escuela de Ingeniería en Computación, Instituto Tecnológico de Costa Rica (ITCR)</b>
-<br>
-El Tecnológico de Costa Rica <a href= "https://www.tec.ac.cr/">(TEC)</a> es una institución costarricense autónoma de educación superior universitaria, dedicada a la docencia, la investigación y la extensión de la tecnología y las ciencias conexas para el desarrollo del país.  La institución fue creada con la misión de contribuir al desarrollo integral del país, mediante formación del recurso humano, la investigación y la extensión; manteniendo el liderazgo científico, tecnológico y técnico, la excelencia académica y el estricto apego a las normas éticas, humanísticas y ambientales, desde una perspectiva universitaria estatal de calidad y competitividad a nivel nacional e internacional.
-
-<br><br>
-
-La Escuela de Ingeniería en Computación del ITCR  tiene como misión contribuir a la sociedad costarricense en la generación de conocimiento científico-tecnológico en computación a través de la docencia, investigación, extensión y vinculación externa, basados en principios de excelencia académica, pertinencia social, regionalización, equidad y formación integral.  
-
+    <b>Consejo Nacional de Áreas Protegidas <a href="https://conap.gob.gt/">(CONAP)</a>, Por medio del Nodo GBIF Guatemala, Sistema Nacional de Información sobre Diversidad Biológica “SNIBgt”</b>
+    <br>
+    La MISIÓN DEL CONAP es propiciar e impulsar la conservación, de Áreas Protegidas y la Diversidad Biológica, planificando, coordinando e implementando las políticas y modelos de conservación necesarios, trabajando conjuntamente con otros actores, contribuyendo al crecimiento desarrollo sostenible del País.
 </div>
+
 <br>
 
 <div style="text-align: justify">
-<b>Museo Entomológico de León, Nicaragua</b>
-<br>
-El <a href="http://bio-nica.info/topic/index.html">Museo Entomológico de León</a> posee la mayor colección entomológica del país. Su director funge como Editor de la Revista Nicaragüense de Entomología (fundada en 1987) y de la revista Nicaragüense de Biodiversidad (fundada en 2015), ambas con el objetivo de divulgar los trabajos realizados en Nicaragua y países vecinos.calidad y competitividad a nivel nacional e internacional.
+    <b>Escuela de Ingeniería en Computación, Instituto Tecnológico de Costa Rica (ITCR)</b>
+    <br>
+    El Tecnológico de Costa Rica <a href= "https://www.tec.ac.cr/">(TEC)</a> es una institución costarricense autónoma de educación superior universitaria, dedicada a la docencia, la investigación y la extensión de la tecnología y las ciencias conexas para el desarrollo del país.  La institución fue creada con la misión de contribuir al desarrollo integral del país, mediante formación del recurso humano, la investigación y la extensión; manteniendo el liderazgo científico, tecnológico y técnico, la excelencia académica y el estricto apego a las normas éticas, humanísticas y ambientales, desde una perspectiva universitaria estatal de calidad y competitividad a nivel nacional e internacional.
+    <br><br>
+    La Escuela de Ingeniería en Computación del ITCR  tiene como misión contribuir a la sociedad costarricense en la generación de conocimiento científico-tecnológico en computación a través de la docencia, investigación, extensión y vinculación externa, basados en principios de excelencia académica, pertinencia social, regionalización, equidad y formación integral.
 </div>
+
 <br>
 
 <div style="text-align: justify">
-<b>Manuel Vargas. Investigador en Informática de la Biodiversidad</b>
+    <b>Museo Entomológico de León, Nicaragua</b>
+    <br>
+    El <a href="http://bio-nica.info/topic/index.html">Museo Entomológico de León</a> posee la mayor colección entomológica del país. Su director funge como Editor de la Revista Nicaragüense de Entomología (fundada en 1987) y de la revista Nicaragüense de Biodiversidad (fundada en 2015), ambas con el objetivo de divulgar los trabajos realizados en Nicaragua y países vecinos.calidad y competitividad a nivel nacional e internacional.
+    </div>
+
 <br>
-<a href="https://github.com/mfvargas">Manuel Vargas</a> actualmente es profesor en la Escuela de Geografía de la UCR y también ha impartido clases en el Programa de Posgrado en Sistemas de Información Geográfica y Teledetección de la UCR y la UNA, la Maestría en Gestión del Recurso Hídrico de la UCR y el Programa de Posgrado en Computación e Informática de la UCR. El señor Vargas es informático especializado en procesamiento de información geoespacial. Sus áreas de trabajo incluyen también informática de la biodiversidad, clasificación del uso y cobertura de la tierra, y visualización y análisis de datos en general.  Como parte de su experiencia laboral, ha trabajado en el Instituto Nacional de Biodiversidad (INBio) y ha participado como consultor en diversos proyectos en la Conagebio, el PNUD, el IMN y el Catie, entre otras instituciones.
+
+<div style="text-align: justify">
+    <b>Manuel Vargas. Investigador en Informática de la Biodiversidad</b>
+    <br>
+    <a href="https://github.com/mfvargas">Manuel Vargas</a> actualmente es profesor en la Escuela de Geografía de la UCR y también ha impartido clases en el Programa de Posgrado en Sistemas de Información Geográfica y Teledetección de la UCR y la UNA, la Maestría en Gestión del Recurso Hídrico de la UCR y el Programa de Posgrado en Computación e Informática de la UCR. El señor Vargas es informático especializado en procesamiento de información geoespacial. Sus áreas de trabajo incluyen también informática de la biodiversidad, clasificación del uso y cobertura de la tierra, y visualización y análisis de datos en general.  Como parte de su experiencia laboral, ha trabajado en el Instituto Nacional de Biodiversidad (INBio) y ha participado como consultor en diversos proyectos en la Conagebio, el PNUD, el IMN y el Catie, entre otras instituciones.
 </div>
+
 <br>
