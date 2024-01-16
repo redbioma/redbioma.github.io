@@ -43,9 +43,11 @@ author: redbioma
 copyright: "Red de Ciencia de datos para la Conservación de la Biodiversidad Mesoamericana (cleft) {currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  La Red de Ciencia de Datos para la Conservación de la Biodiversidad
+  Mesoamericana (redbioma) pretende implementar una conexión viva entre
+  personas e instituciones para impulsar el desarrollo de capacidades
+  y la investigación en conservación de la biodiversidad, para lograr
+  estos objetivos se debe contar con el apoyo de todos sus miembros.
 
 baseurl: # the subpath of your site, e.g. /blog
 url: https://redbioma.org # the base hostname & protocol for your site, e.g. https://example.com
