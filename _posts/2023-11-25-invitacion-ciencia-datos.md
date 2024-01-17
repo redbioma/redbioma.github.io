@@ -1,7 +1,7 @@
 ---
 layout: post
 author: sjcr23
-title: Formulario para participar del programa de Ciencia de Datos
+title: Formulario para participar del programa de Ciencia de Datos (Requiere conocimientos de Python)
 subtitle: Formando personas líderes en Ciencia de Datos
 categories: Formularios
 tags: Capacitación ITCR STEM
