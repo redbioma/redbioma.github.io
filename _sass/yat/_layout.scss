@@ -627,7 +627,7 @@ html {
 
   .page-banner-inner {
     @include vertical-center(relative);
-
+    
     color: $banner-text-color;
     padding: 10px 5px;
     text-shadow: 1px 1px 2px #33333355;
@@ -636,14 +636,14 @@ html {
       margin: 0;
 
       > :nth-child(1) {
-        @include relative-font-size(3.9);
+        @include relative-font-size(3);
         letter-spacing: -1px;
         margin-bottom: 0.1em;
         font-weight: normal;
         transition: 0.2s all;
 
         @include media-query($on-palm) {
-          @include relative-font-size(1.975);
+          @include relative-font-size(1.5);
         }
       }
 
