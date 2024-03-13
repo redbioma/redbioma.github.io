@@ -35,6 +35,7 @@ El curso se impartirá en dos grupos independientes en los siguientes horarios:
 <ul>
     <li>Modalidad: Virtual.</li>
     <li>Teórico/Práctico: Para completar el programa, es necesario tener una asistencia efectiva de más del 75% de las clases sincrónicas virtuales, y sus evaluaciones con un promedio mayor o igual a 70.</li>
+    <li>Costo: Gratuito.</li>
 </ul>
 
 <b>Requisitos</b>
@@ -42,7 +43,7 @@ El curso se impartirá en dos grupos independientes en los siguientes horarios:
 <li>Tener disponibilidad de al menos 16 horas durante todo el programa para asistir a ocho sesiones sincrónicas virtuales de clases. (2hrs / clase)</li>
 <li>Tener disponibilidad de al menos 24 horas durante todo el programa para realizar tareas cortas, los laboratorios prácticos del curso y un proyecto final. (3hrs / semana)</li>
 
-<li>Llenar el formulario para <a href="https://forms.gle/gq98uQN32xz9uBx87">Participar en las actividades de la redbioma.</a>. (anteriormente circulado)</li>
+<li>Llenar el formulario para <a href="https://forms.gle/gq98uQN32xz9uBx87">Participar en las actividades de la redbioma.</a> (anteriormente circulado)</li>
 </ul>
 
 </div>
