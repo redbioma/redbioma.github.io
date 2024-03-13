@@ -89,7 +89,7 @@ El programa del curso es teórico/práctico donde los participantes pondrán en 
         <li>Graficación y visualización de datos.</li>
         <li>Transformación y preprocesamiento de datos.</li>
     </ol>
-    <b><li>ntroducción a la representación de datos geoespaciales. (1 sesión / 2 horas)</li></b>
+    <b><li>Introducción a la representación de datos geoespaciales. (1 sesión / 2 horas)</li></b>
     <ol type="i">
         <li>Introducción a los sistemas de información geográfica (GIS) con datos de biodiversidad.</li>
     </ol>
