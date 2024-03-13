@@ -1,40 +1,57 @@
 ---
 layout: post
 author: sjcr23
-title: Programa de Curso - Python para Ciencia de Datos
+title: Programa del curso Introducción a Python para Ciencia de Datos
 categories: Cursos
 hidden: [related_posts, navigator]
 permalink: "/:categories/:title.html"
 banner:
-    image: "/assets/images/banners/python.jpg"
+    image: "/assets/images/banners/Melastomaceae.jpg"
     opacity: 0.7
     background: "#000000"
     heading_style: "color: white; text-shadow: 1px 1px 4px black;"
     subheading_style: "color: white; text-shadow: 1px 1px 4px black;"
     has_credits: true
-    scientific_name: "Opheodrys aestivus"
-    author: <a href="https://unsplash.com/es/@davidclode?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">David Clode</a> en <a href="https://unsplash.com/es/fotos/vibora-verde-vb-3qEe3rg8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+    scientific_name: "Melastomaceae"
+    author: "Tania Urquiza-Haas"
 ---
 
 ## Descripción
 <div style="text-align: justify">
-El presente curso está enfocado a introducir conceptos básicos de ciencia de datos a través del lenguaje de programación Python. A lo largo del curso, las personas estudiantes aprenderán la sintaxis y semántica necesaria del lenguaje para lograr un fundamento sólido de conocimientos que les ayudarán a realizar futuros proyectos en el área de aplicación.
+El presente curso está enfocado a introducir conceptos básicos de Ciencia de Datos a través del lenguaje de programación Python. A lo largo del curso, las personas estudiantes aprenderán la sintaxis y semántica necesaria del lenguaje para lograr un fundamento sólido de conocimientos que les ayudarán a realizar futuros proyectos en el área de aplicación.
+<br><br>
+
+<b>Requisitos:</b>
+<ul>
+<li>Tener disponibilidad de al menos 16 horas durante todo el programa para asistir a ocho sesiones sincrónicas virtuales de clases. (2hrs / clase)</li>
+<li>Tener disponibilidad de al menos 24 horas durante todo el programa para realizar tareas cortas, los laboratorios prácticos del curso y un proyecto final. (3hrs / semana)</li>
+
+<li>Llenar el formulario para Participar en las actividades de la redbioma.  (anteriormente circulado)</li>
+
+<li>Matricularse en alguno de estos dos grupos. (Cupos limitados)</li>
+    <ul>
+        <li>Grupo #1</li>
+        <li>Grupo #2</li>
+    </ul>
+A partir de los días 3 y 4 de abril del año 2024, respectivamente
+</ul>
+
 </div>
 
 ## Horario y fecha de inicio
 <div style="text-align: justify">
-El curso se impartirá en dos grupos independientes que iniciarán lecciones a partir del día 3 y 4 de abril, respectivamente en los siguientes horarios:
+El curso se impartirá en dos grupos independientes que iniciarán lecciones a partir de los días 3 y 4 de abril, respectivamente en los siguientes horarios:
 
 <br><br>
 
 <ul>
-    <li>Grupo #1: Los días Miércoles a las 06:00pm (GMT-6)</li>
-    <li>Grupo #2: Los días Jueves a las 06:00pm (GMT-6)</li>
+    <li>Grupo #1: inicia el miércoles 3 de abril y se impartirá todos los miércoles a las 06:00 pm. (GMT-6) durante 8 semanas.</li>
+    <li>Grupo #2: inicia el jueves 4 de abril y se impartirá todos los jueves a las 06:00 pm. (GMT-6) durante 8 semanas.</li>
 </ul>
 </div>
 
 ## Formulario de inscripción (Cupos limitados)
-Enlace: [Inscripciones Python para ciencia de datos](https://forms.gle/XbZCbuSoV33FiPc1A)
+Enlace: [Inscripciones Python para Ciencia de Datos](https://forms.gle/XbZCbuSoV33FiPc1A)
 
 ## Tipo de curso
 <div style="text-align: justify">
@@ -57,7 +74,7 @@ Cantidad de horas: 40 horas (en 8 semanas)
 
 ### General
 <div style="text-align: justify">
-Este programa de introducción a Python está diseñado para proporcionar una comprensión sólida de los conceptos básicos de la programación y los fundamentos de Python a través de lecciones teóricas y prácticas que permitan desarrollar capacidades en ciencia de datos en las personas participantes.
+Este programa de introducción a Python está diseñado para proporcionar una comprensión sólida de los conceptos básicos de la programación y los fundamentos de Python a través de lecciones teóricas y prácticas que permitan desarrollar capacidades en Ciencia de Datos en las personas participantes.
 </div>
 
 ### Específicos
@@ -65,7 +82,7 @@ Este programa de introducción a Python está diseñado para proporcionar una co
 <ul>
     <li>Construir  una comprensión sólida de la sintaxis básica de Python utilizada para  escribir y ejecutar código en el lenguaje.</li>
     <li>Experimentar con los conceptos básicos de programación, incluyendo variables, tipos de datos, estructuras de datos, funciones, programación orientada a objetos (POO), y graficación de datos.</li>
-    <li>Desarrollar conceptos relacionados con el tema de ciencia de datos, por ejemplo: álgebra lineal, aprendizaje automático, análisis exploratorio de datos, sistemas de información geográficos, entre otros.</li>
+    <li>Desarrollar conceptos relacionados con el tema de Ciencia de Datos, por ejemplo: álgebra lineal, aprendizaje automático, análisis exploratorio de datos, sistemas de información geográficos, entre otros.</li>
     <li>Aplicar los conocimientos y habilidades adquiridos a través de laboratorios prácticos, para consolidar el aprendizaje y desarrollar habilidades en la programación de Python.</li>
     <li>Desarrollar proyectos de investigación aplicados a la conservación de la biodiversidad.</li>
 </ul>
@@ -146,9 +163,9 @@ Se recomienda estudiar previo al curso los siguientes tutoriales:
 - [Aprende Python - Curso de Python desde Cero](https://www.youtube.com/watch?v=DLikpfc64cA)
 - [Programación en Python - Programación ATS](https://www.youtube.com/playlist?list=PLWtYZ2ejMVJnh0KVllw24XklzJ62WNFsj)
 
-## Cronograma de clases
+## Contactos
 
-| Persona Facilitadora | Correo electrónico |
+| Persona facilitadora | Correo electrónico |
 | -------------------- | ------------------ |
 | María Auxiliadora Mora     | [maria.mora@itcr.ac.cr](mailto:maria.mora@itcr.ac.cr) |
 | Josué Castro Ramírez       | [jd.castro23r@gmail.com](mailto:jd.castro23r@gmail.com) |
