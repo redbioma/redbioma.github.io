@@ -21,54 +21,34 @@ banner:
 El presente curso está enfocado a introducir conceptos básicos de Ciencia de Datos a través del lenguaje de programación Python. A lo largo del curso, las personas estudiantes aprenderán la sintaxis y semántica necesaria del lenguaje para lograr un fundamento sólido de conocimientos que les ayudarán a realizar futuros proyectos en el área de aplicación.
 <br><br>
 
-<b>Requisitos:</b>
-<ul>
-<li>Tener disponibilidad de al menos 16 horas durante todo el programa para asistir a ocho sesiones sincrónicas virtuales de clases. (2hrs / clase)</li>
-<li>Tener disponibilidad de al menos 24 horas durante todo el programa para realizar tareas cortas, los laboratorios prácticos del curso y un proyecto final. (3hrs / semana)</li>
-
-<li>Llenar el formulario para Participar en las actividades de la redbioma.  (anteriormente circulado)</li>
-
-<li>Matricularse en alguno de estos dos grupos. (Cupos limitados)</li>
-    <ul>
-        <li>Grupo #1</li>
-        <li>Grupo #2</li>
-    </ul>
-A partir de los días 3 y 4 de abril del año 2024, respectivamente
-</ul>
-
-</div>
-
-## Horario y fecha de inicio
-<div style="text-align: justify">
-El curso se impartirá en dos grupos independientes que iniciarán lecciones a partir de los días 3 y 4 de abril, respectivamente en los siguientes horarios:
-
-<br><br>
-
+<b>Horario y fecha de inicio</b>
+<br>
+El curso se impartirá en dos grupos independientes en los siguientes horarios:
 <ul>
     <li>Grupo #1: inicia el miércoles 3 de abril y se impartirá todos los miércoles a las 06:00 pm. (GMT-6) durante 8 semanas.</li>
     <li>Grupo #2: inicia el jueves 4 de abril y se impartirá todos los jueves a las 06:00 pm. (GMT-6) durante 8 semanas.</li>
 </ul>
-</div>
+<br>
 
-## Formulario de inscripción (Cupos limitados)
-Enlace: [Inscripciones Python para Ciencia de Datos](https://forms.gle/XbZCbuSoV33FiPc1A)
-
-## Tipo de curso
-<div style="text-align: justify">
+<b>Tipo de curso</b>
+<br>
 <ul>
     <li>Modalidad: Virtual.</li>
     <li>Teórico/Práctico: Para completar el programa, es necesario tener una asistencia efectiva de más del 75% de las clases sincrónicas virtuales, y sus evaluaciones con un promedio mayor o igual a 70.</li>
 </ul>
+
+<b>Requisitos</b>
+<ul>
+<li>Tener disponibilidad de al menos 16 horas durante todo el programa para asistir a ocho sesiones sincrónicas virtuales de clases. (2hrs / clase)</li>
+<li>Tener disponibilidad de al menos 24 horas durante todo el programa para realizar tareas cortas, los laboratorios prácticos del curso y un proyecto final. (3hrs / semana)</li>
+
+<li>Llenar el formulario para <a href="https://forms.gle/gq98uQN32xz9uBx87">Participar en las actividades de la redbioma.</a>. (anteriormente circulado)</li>
+</ul>
+
 </div>
 
-## Duración
-<div style="text-align: justify">
-Cantidad de horas: 40 horas (en 8 semanas)
-<ul>
-    <li>16 horas sincrónicas.</li>
-    <li>24 horas asincrónicas.</li>
-</ul>
-</div>
+## Formulario de inscripción (Cupos limitados)
+Enlace: [Inscripciones Python para Ciencia de Datos](https://forms.gle/XbZCbuSoV33FiPc1A)
 
 ## Objetivos
 
