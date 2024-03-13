@@ -3,20 +3,23 @@
 
   <div class="wrapper">
     <div class="site-footer-inner">
-        {%- assign currentYear = 'now' | date: "%Y" -%}
-        {%- assign copyright = site.copyright
-            | replace: '{currentYear}', currentYear
-            | replace: '{author}', site.author
-            | replace: '(c)', '&copy;'
-            | replace: '(p)', '℗'
-            | replace: '(cleft)', '<span class="copyleft">&copy;</span>'
+      {%- assign currentYear = 'now' | date: "%Y" -%}
+      {%- assign copyright = site.copyright
+        | replace: '{currentYear}', currentYear
+        | replace: '{author}', site.author
+        | replace: '(c)', '&copy;'
+        | replace: '(p)', '℗'
+        | replace: '(cleft)', '<span class="copyleft">&copy;</span>'
         -%}
-      <div>{{ copyright }}</div>
-      <div>Contacto: <a href="mailto:maria.mora@itcr.ac.cr">maria.mora@itcr.ac.cr</a></div>
-      <div>Powered by <a title="Jekyll is a simple, blog-aware, static site
-      generator." href="https://jekyllrb.com/">Jekyll</a> &amp; <a title="Yat, yet
-      another theme." href="https://github.com/jeffreytse/jekyll-theme-yat">Yat Theme</a>.</div>
-      <!-- <div class="footer-col rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></div> -->
+        <div>{{ copyright }}</div>
+        <br>
+        <img src="assets\images\banners\cintillo.png" width="69%" height="auto"/>
+        <br><br>
+        <div>Contacto: <a href="mailto:maria.mora@itcr.ac.cr">maria.mora@itcr.ac.cr</a></div>
+        <div>Powered by <a title="Jekyll is a simple, blog-aware, static site
+          generator." href="https://jekyllrb.com/">Jekyll</a> &amp; <a title="Yat, yet
+          another theme." href="https://github.com/jeffreytse/jekyll-theme-yat">Yat Theme</a>.</div>
+          <!-- <div class="footer-col rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></div> -->
+        </div>
     </div>
-  </div>
 </footer>
