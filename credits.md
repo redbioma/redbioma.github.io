@@ -18,7 +18,7 @@ banner:
 ---
 
 <div style="text-align: justify">
-Esta iniciativa se está desarrollando como parte del proyecto "Fortaleciendo sistemas inclusivos de ciencia e innovación en América Latina, a través de una red de investigación colaborativa" coordinado por Consejo Superior Universitario Centroamericano <a href="https://pridca.csuca.org/">(CSUCA)</a> con fondos del Centro Internacional de Investigaciones para el Desarrollo <a href="https://idrc-crdi.ca/es">(IDRC).</a>
+Este trabajo se llevó a cabo gracias a la subvención concedida por el Proyecto CSUCA-IDRC, financiado por el Centro Internacional de Investigaciones para el Desarrollo <a href="https://idrc-crdi.ca/es">(IDRC).</a>, Ottawa, Canadá, liderado por el Consejo Superior Universitario Centroamericano <a href="https://pridca.csuca.org/">(CSUCA)</a>. Las opiniones aquí expresadas no representan necesariamente las del CSUCA, IDRC o las de la Junta de Gobernadores
 </div>
 
 <br>
