@@ -74,6 +74,12 @@ Este programa de introducción a Python está diseñado para proporcionar una co
 La metodología del curso estará basada en aprendizaje activo y colaborativo, por medio de resolución de problemas planteados en los laboratorios, trabajo de investigación y aula invertida, entre otras técnicas. Se propone guiar a las personas estudiantes para que estas fortalezcan su capacidad de investigar y aplicar nuevos conceptos teniendo como base el conocimiento adquirido previamente y los contenidos del curso.
 <br><br>
 El programa del curso es teórico/práctico donde los participantes pondrán en práctica los conocimientos teóricos mediante casos de estudios, laboratorios y proyecto de investigación.
+<br><br>
+<b>Importante:</b>
+<ul>
+    <li>Todas las sesiones sincrónicas serán grabadas y publicadas en el sitio web del proyecto.</li>
+    <li>Los proyectos finales de investigación serán publicados en el sitio web del proyecto.</li>
+</ul>
 </div>
 
 ## Contenidos del programa
@@ -153,9 +159,3 @@ Se recomienda estudiar previo al curso los siguientes tutoriales:
 | Benjamin Johnson Davis     | [eduardojohnson2001@gmail.com](mailto:eduardojohnson2001@gmail.com) |
 | Ervin Rodríguez Villanueva | [ervinrodriguez140@gmail.com ](mailto:ervinrodriguez140@gmail.com ) |
 | Fabricio Ríos Montero      | [fabrirm15@gmail.com](mailto:fabrirm15@gmail.com) |
-
-## Agradecimiento
-
-<div style="text-align: justify">
-Este trabajo se llevó a cabo gracias a la subvención concedida por el Centro Internacional de Investigaciones para el Desarrollo (IDRC), Ottawa, Canadá. Las opiniones aquí expresadas no representan necesariamente las del IDRC o las de la Junta de Gobernadores.
-</div>
