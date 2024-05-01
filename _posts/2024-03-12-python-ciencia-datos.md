@@ -106,7 +106,7 @@ El programa del curso es teórico/práctico donde los participantes pondrán en 
     <ol type="i">
         <li>Introducción a los sistemas de información geográfica (GIS) con datos de biodiversidad.</li>
     </ol>
-    <b><li>Introducción al análisis de datos con Python. (4 sesiones / 2 horas)</li></b>
+    <b><li>Introducción al aprendizaje automático. (1 sesión / 2 horas)</li></b>
     <ol type="i">
         <li>Introducción al aprendizaje automático.</li>
         <li>Ejemplo de uso.</li>
@@ -157,5 +157,5 @@ Se recomienda estudiar previo al curso los siguientes tutoriales:
 | María Auxiliadora Mora     | [maria.mora@itcr.ac.cr](mailto:maria.mora@itcr.ac.cr) |
 | Josué Castro Ramírez       | [jd.castro23r@gmail.com](mailto:jd.castro23r@gmail.com) |
 | Benjamin Johnson Davis     | [eduardojohnson2001@gmail.com](mailto:eduardojohnson2001@gmail.com) |
-| Ervin Rodríguez Villanueva | [ervinrodriguez140@gmail.com ](mailto:ervinrodriguez140@gmail.com ) |
+| Ervin Rodríguez Villanueva | [ervinrodriguez140@gmail.com](mailto:ervinrodriguez140@gmail.com ) |
 | Fabricio Ríos Montero      | [fabrirm15@gmail.com](mailto:fabrirm15@gmail.com) |
