@@ -4,7 +4,7 @@ author: sjcr23
 title: Programa del curso Introducción a Python para Ciencia de Datos
 categories: Cursos
 hidden: [related_posts, navigator]
-permalink: "/:categories/:title.html"
+permalink: "/:categories/:year-:month-:title.html"
 banner:
     image: "/assets/images/banners/Melastomaceae.jpg"
     opacity: 0.7
