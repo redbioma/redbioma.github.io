@@ -1,7 +1,7 @@
 ---
 layout: post
 author: sjcr23
-title: Programa del curso Introducción a Python para Ciencia de Datos
+title: Programa del curso Aprendizaje Automático Aplicado a Datos de Biodiversidad
 categories: Cursos
 hidden: [related_posts, navigator]
 permalink: "/:categories/:year-:month-:title.html"

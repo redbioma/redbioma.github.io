@@ -8,8 +8,16 @@ author: María Mora Cross
 ---
 
 
-# Cursos
+# Cursos activos
 
 | Programa del curso | Fecha de inicio | Fecha de fin | Formulario de inscripcion |
 | ----- | :-------------: | :----------: | ------------------------- |
-| [Introducción a Python para Ciencia de Datos](/cursos/python-ciencia-datos.html)  | 03/04/2024 | 28/05/2024 | [Inscripciones Python para Ciencia de Datos](https://forms.gle/XbZCbuSoV33FiPc1A) |
+| [Aprendizaje Automático Aplicado a Datos de Biodiversidad](/cursos/2024-06-machine-learning.html)  | 08/07/2024 | 26/08/2024 | [Inscripciones Aprendizaje Automático Aplicado a Datos de Biodiversidad](https://forms.gle/SojwgcUT1iN3Sn1H6) |
+| [Programa de Ciencia de Datos](/formularios/invitacion-ciencia-datos.html)  | 08/07/2024 | 26/08/2024 | [Inscripciones Programa de Ciencia de Datos](https://forms.gle/VA7xoS22GckH2S396) |
+
+
+# Cursos finalizados
+
+| Programa del curso | Fecha de inicio | Fecha de fin | Formulario de inscripcion |
+| ----- | :-------------: | :----------: | ------------------------- |
+| [Introducción a Python para Ciencia de Datos](/cursos/2024-03-python-ciencia-datos.html)  | 03/04/2024 | 28/05/2024 | [Inscripciones Python para Ciencia de Datos](https://forms.gle/XbZCbuSoV33FiPc1A) |
