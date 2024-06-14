@@ -10,7 +10,7 @@ banner:
     opacity: 0.7
     background: "#000000"
     
-
+hidden: [related_posts, navigator]
 permalink: "/:categories/:title.html"
 ---
 
