@@ -20,7 +20,7 @@ banner:
 <div style="text-align: justify">
 La Inteligencia Artificial y en particular, la rama del Aprendizaje Automático ha tenido un crecimiento acelerado en los últimos años existiendo una gran diversidad de técnicas que pueden ser utilizadas en forma individual o en conjunto para analizar, extraer patrones y generar nuevos datos en innumerables áreas de aplicación, lo que ha permitido importantes avances en dichas disciplinas. 
 <br><br>
-Este curso surge en respuesta a las necesidades de capacitación en diferentes áreas de la Ciencia de Datos diagnosticadas por la Red de Ciencia de datos para la Conservación de la Biodiversidad Mesoamericana (redbioma). Está dirigido a profesionales que se desempeñan en actividades relacionadas con la Conservación de la Biodiversidad, por lo que se encuentra enfocado en la solución de problemas y el desarrollo de conocimientos y habilidades en el diseño e implementación de modelos simples de Aprendizaje Automático (utilizando el lenguaje Python) aplicados a conjuntos de datos afines con las áreas profesionales de los participantes.
+Este curso surge en respuesta a las necesidades de capacitación en diferentes áreas de la Ciencia de Datos diagnosticadas por la Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana (redbioma). Está dirigido a profesionales que se desempeñan en actividades relacionadas con la Conservación de la Biodiversidad, por lo que se encuentra enfocado en la solución de problemas y el desarrollo de conocimientos y habilidades en el diseño e implementación de modelos simples de Aprendizaje Automático (utilizando el lenguaje Python) aplicados a conjuntos de datos afines con las áreas profesionales de los participantes.
 
 <br><br>
 
@@ -48,13 +48,13 @@ El curso se impartirá en dos grupos independientes en los siguientes horarios:
 <li>Conocimientos básicos del lenguaje de programación Python, bibliotecas Numpy y Pandas para el manejo de datos y generalidades de la representación de datos geoespaciales. De preferencia haber aprobado el curso de Introducción a Python para Ciencia de Datos, que se ofrece como parte de este Programa de Capacitación.</li>
 
 
-<li>Llenar el formulario para <a href="https://forms.gle/gq98uQN32xz9uBx87">Participar en las actividades de la redbioma.</a> (anteriormente circulado)</li>
+<li>Llenar el formulario para <a href="https://forms.gle/gq98uQN32xz9uBx87">Participar en las actividades de la redbioma.</a> (anteriormente circulado, por favor llenarlo una sola vez)</li>
 </ul>
 
 </div>
 
 ## Formulario de inscripción (Cupos limitados)
-Enlace: [Inscripciones Python para Ciencia de Datos](https://forms.gle/SojwgcUT1iN3Sn1H6)
+Enlace: [Inscripciones Aprendizaje Automático Aplicado a Datos de Biodiversidad ](https://forms.gle/SojwgcUT1iN3Sn1H6)
 
 ## Objetivos
 
@@ -150,7 +150,7 @@ Las personas estudiantes llevarán a cabo tareas cortas, laboratorios y un proye
 | Total | 100 |
 
 <div style="text-align: justify">
-El proyecto final consiste en identificar un caso de uso de aplicación del aprendizaje automático presente en el contexto profesional del participante. La especificación del proyecto se detalla en un documento adjunto.
+El proyecto final consiste en identificar un caso de uso de aplicación del aprendizaje automático presente en el contexto profesional del participante.
 <br>
 Cada evaluación tendrá una fecha de entrega previamente establecida. La hora límite de las entregas será a las 23:45 GMT-6. No se reciben entregas tardías. El medio de entrega será la plataforma Google Classroom.
 
