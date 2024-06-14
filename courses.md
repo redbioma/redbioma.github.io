@@ -13,7 +13,7 @@ author: María Mora Cross
 | Programa del curso | Fecha de inicio | Fecha de fin | Formulario de inscripcion |
 | ----- | :-------------: | :----------: | ------------------------- |
 | [Aprendizaje Automático Aplicado a Datos de Biodiversidad](/cursos/2024-06-machine-learning.html)  | 08/07/2024 | 26/08/2024 | [Inscripciones Aprendizaje Automático Aplicado a Datos de Biodiversidad](https://forms.gle/SojwgcUT1iN3Sn1H6) |
-| [Programa de Ciencia de Datos](/formularios/invitacion-ciencia-datos.html)  | 08/07/2024 | 26/08/2024 | [Inscripciones Programa de Ciencia de Datos](https://forms.gle/VA7xoS22GckH2S396) |
+| [Programa de Ciencia de Datos](/formularios/invitacion-ciencia-datos.html)  | Depende del programa del ITCR | Depende del programa del ITCR | [Inscripciones Programa de Ciencia de Datos](https://forms.gle/VA7xoS22GckH2S396) |
 
 
 # Cursos finalizados
