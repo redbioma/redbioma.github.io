@@ -28,8 +28,8 @@ Este curso surge en respuesta a las necesidades de capacitación en diferentes �
 <br>
 El curso se impartirá en dos grupos independientes en los siguientes horarios:
 <ul>
-    <li>Grupo #1: inicia la semana del 8 de julio y se impartirá todos miércoles de 6:00 a 8:00pm  (GMT-6) durante 8 semanas.</li>
-    <li>Grupo #2: inicia la semana del 8 de julio y se impartirá todos los  jueves de 3:00 - 5:00pm (GMT-6) durante 8 semanas.</li>
+    <li>Grupo #1: inicia el miércoles 10 de julio y se impartirá todos miércoles de 3:00 a 5:00pm  (GMT-6) durante 8 semanas.</li>
+    <li>Grupo #2: inicia el jueves 11 de julio y se impartirá todos los  jueves de 6:00 - 8:00pm (GMT-6) durante 8 semanas.</li>
 </ul>
 <br>
 
