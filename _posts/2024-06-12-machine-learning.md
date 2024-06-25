@@ -14,6 +14,7 @@ banner:
     has_credits: true
     scientific_name: "Melastomaceae"
     author: "Tania Urquiza-Haas"
+top: 3
 ---
 
 ## Descripción
