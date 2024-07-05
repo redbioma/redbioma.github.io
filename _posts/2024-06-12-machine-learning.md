@@ -17,6 +17,12 @@ banner:
 top: 3
 ---
 
+
+## Infografía 
+
+
+![](https://github.com/redbioma/redbioma.github.io/blob/master/assets/images/thumbnails/diagramacion_leila.jpg?raw=true){: .left-block :}
+
 ## Descripción
 <div style="text-align: justify">
 La Inteligencia Artificial y en particular, la rama del Aprendizaje Automático ha tenido un crecimiento acelerado en los últimos años existiendo una gran diversidad de técnicas que pueden ser utilizadas en forma individual o en conjunto para analizar, extraer patrones y generar nuevos datos en innumerables áreas de aplicación, lo que ha permitido importantes avances en dichas disciplinas. 
