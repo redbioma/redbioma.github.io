@@ -158,3 +158,4 @@ Se recomienda estudiar previo al curso los siguientes tutoriales:
 | Josué Castro Ramírez       | [jd.castro23r@gmail.com](mailto:jd.castro23r@gmail.com) |
 | Benjamin Johnson Davis     | [eduardojohnson2001@gmail.com](mailto:eduardojohnson2001@gmail.com) |
 | Fabricio Ríos Montero      | [fabrirm15@gmail.com](mailto:fabrirm15@gmail.com) |
+| Alejandro Quesada Calderón | [ale11199@estudiantec.cr](mailto:ale11199@estudiantec.cr) |
