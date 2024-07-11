@@ -40,7 +40,7 @@ author: redbioma
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Red de Ciencia de datos para la Conservación de la Biodiversidad Mesoamericana (cleft) {currentYear} {author}"
+copyright: "Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana (cleft) {currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   La Red de Ciencia de Datos para la Conservación de la Biodiversidad
