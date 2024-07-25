@@ -20,8 +20,13 @@ html {
           color: #fff;
           transition: 0.1s color;
           text-shadow: 1px 1px 3px black;
-          @include media-query(1280px){
-            text-shadow: 0px 0px 100px rgba(255, 255, 255, 0);
+          @mixin media-query($size) {
+            @if $size == 1280px {
+              @media (min-width: 1280px) {
+                @content;
+              }
+            }
+            // Añade otros breakpoints si los necesitas
           }
         }
 
@@ -834,4 +839,23 @@ a:visited .post-badges .post-badge.badge-new {
   display: none;
   color: $background-color;
   background-color: $background-color;
+}
+
+.jupyter-notebook {
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+
+  .jupyter-notebook-iframe-container {
+    padding-bottom: 455px; // Ajuste del padding-bottom
+
+    iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      border-style: none;
+      width: 100%;
+      height: 100%;
+    }
+  }
 }
