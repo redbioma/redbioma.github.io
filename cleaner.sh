@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Directorio donde están los archivos .ipynb
-DIRECTORIO="assets/jupyter"
+DIRECTORIO="assets/jupyter/"
 
 # Recorre todos los archivos .ipynb en el directorio
 for archivo in "$DIRECTORIO"/*.ipynb; do
@@ -10,4 +10,5 @@ for archivo in "$DIRECTORIO"/*.ipynb; do
   
   # Ejecuta el comando jq y guarda el resultado en un nuevo archivo
   jq -M 'del(.metadata.widgets)' "$archivo" > "$DIRECTORIO/$nombre_archivo.fixed.ipynb"
+  rm $archivo
 done
