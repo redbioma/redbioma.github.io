@@ -19,9 +19,10 @@ author: María Mora Cross
 
 # Cursos finalizados
 
-| Programa del curso | Fecha de inicio | Fecha de fin | Formulario de inscripcion |
-| ----------------------------------------------------------- | :--------: | :--------: | ------------------------- |
-| [Introducción a Python para Ciencia de Datos][python_julio] | 03/04/2024 | 28/05/2024 | [Inscripciones Python para Ciencia de Datos][python_julio_form] |
+| Programa del curso | Fecha de inicio | Fecha de fin | Formulario de inscripcion | Proyectos del curso |
+| ----------------------------------------------------------- | :--------: | :--------: | ------------------------- | ------------------ |
+| [Introducción a Python para Ciencia de Datos][python_julio] | 03/04/2024 | 28/05/2024 | [Inscripciones Python para Ciencia de Datos][python_julio_form] | [Python para Ciencia de Datos 04/2024][python_abril_proyectos]|
+
 
 <!-- Python Julio 2024-->
 [python_julio]:/cursos/2024-07-python-ciencia-datos.html
@@ -38,3 +39,5 @@ author: María Mora Cross
 <!-- Python Abril 2024-->
 [python_abril]:/cursos/2024-03-python-ciencia-datos.html
 [python_abril_form]:https://forms.gle/XbZCbuSoV33FiPc1A
+[python_abril_proyectos]:/proyectos/2024-04-python-ciencia-datos.html
+
