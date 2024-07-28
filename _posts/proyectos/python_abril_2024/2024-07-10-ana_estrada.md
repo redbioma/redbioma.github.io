@@ -26,5 +26,5 @@ Realizado por: Ana Susana Estrada Márquez, Randall Hidalgo Sánchez y Vanessa E
 # Cuaderno de Jupyter
 
 {::nomarkdown}
-{% jupyter_notebook "/assets/jupyter/ana_fandino.fixed.ipynb"%}
+{% jupyter_notebook "/assets/jupyter/randall_higalgo.fixed.ipynb"%}
 {:/nomarkdown}

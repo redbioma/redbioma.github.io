@@ -1,7 +1,8 @@
 #!/bin/bash
 
+#Necesita instalar primero la dependencia: sudo apt-get install jq
 # Directorio donde están los archivos .ipynb
-DIRECTORIO="assets/jupyter/"
+DIRECTORIO="assets/cleaner/"
 
 # Recorre todos los archivos .ipynb en el directorio
 for archivo in "$DIRECTORIO"/*.ipynb; do
