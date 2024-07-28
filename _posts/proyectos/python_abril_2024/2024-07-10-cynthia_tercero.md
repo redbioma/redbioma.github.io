@@ -23,5 +23,5 @@ sidebar: []
 # Cuaderno de Jupyter
 
 {::nomarkdown}
-{% jupyter_notebook "/assets/jupyter/cynthia_tercero.fixed.fixed.ipynb"%}
+{% jupyter_notebook "/assets/jupyter/cynthia_tercero.fixed.ipynb"%}
 {:/nomarkdown}
