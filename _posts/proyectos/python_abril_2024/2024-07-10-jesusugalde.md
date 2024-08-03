@@ -1,6 +1,6 @@
 ---
 layout: default
-author: KiwilEstafas
+author: PKiwi_03
 title: Análisis exploratorio de los datos asociados a las colecciones biológicas de la subfamilia Banchinae (Hymenoptera Ichneumonidae) depositadas en el Museo Nacional de Costa Rica
 # categories: [Python Ciencia de Datos (Abr 2024)]
 hidden: [related_posts, navigator]

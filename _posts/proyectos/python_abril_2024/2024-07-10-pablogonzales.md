@@ -1,6 +1,6 @@
 ---
 layout: default
-author: KiwilEstafas
+author: PKiwi_03
 title:  Análisis cuantitativo de desplazamiento de centroides de modelados de nicho a causa del cambio climático
 # categories: [Python Ciencia de Datos (Abr 2024)]
 hidden: [related_posts, navigator]

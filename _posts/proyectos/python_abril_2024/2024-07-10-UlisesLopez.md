@@ -1,6 +1,6 @@
 ---
 layout: default
-author: KiwilEstafas
+author: PKiwi_03
 title: Diversidad de abejas de la familia Halictidade de México
 # categories: [Python Ciencia de Datos (Abr 2024)]
 hidden: [related_posts, navigator]
