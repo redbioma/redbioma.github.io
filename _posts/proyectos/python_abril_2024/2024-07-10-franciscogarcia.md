@@ -1,6 +1,6 @@
 ---
 layout: default
-author: KiwilEstafas
+author: PKiwi_03
 title: El Pago Por Servicios Ambientales Una Herramienta Económica para la Protección de los Recursos Naturales en Costa Rica.
 # categories: [Python Ciencia de Datos (Abr 2024)]
 hidden: [related_posts, navigator]

@@ -1,6 +1,6 @@
 ---
 layout: default
-author: KiwilEstafas
+author: PKiwi_03
 title: Calidad del Agua del Río Liberia con cálculo de Índice Holandés
 # categories: [Python Ciencia de Datos (Abr 2024)]
 hidden: [related_posts, navigator]

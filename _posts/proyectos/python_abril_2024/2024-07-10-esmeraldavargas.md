@@ -1,6 +1,6 @@
 ---
 layout: default
-author: KiwilEstafas
+author: PKiwi_03
 title: ANÁLISIS DE LOS ACUÍFEROS DE LA REGIÓN DE GUANACASTE SEGÚN LOS DATOS DEL SISTEMA DE MONITOREO DE ACUÍFEROS EN TIEMPO REAL (SIMASTIR)
 # categories: [Python Ciencia de Datos (Abr 2024)]
 hidden: [related_posts, navigator]

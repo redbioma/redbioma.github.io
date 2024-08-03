@@ -1,6 +1,6 @@
 ---
 layout: default
-author: KiwilEstafas
+author: PKiwi_03
 title: Relacion entre la altitud, precipitación y temperatura en Guatemala
 # categories: [Python Ciencia de Datos (Abr 2024)]
 hidden: [related_posts, navigator]

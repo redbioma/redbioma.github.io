@@ -1,6 +1,6 @@
 ---
 layout: default
-author: KiwilEstafas
+author: PKiwi_03
 title: Análisis exploratorio de datos de registros de especies de la familia Hylidae para su uso en la generación de información sobre biodiversidad por medio de herramientas de ciencia de datos.
 # categories: [Python Ciencia de Datos (Abr 2024)]
 hidden: [related_posts, navigator]

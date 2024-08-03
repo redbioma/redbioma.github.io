@@ -1,6 +1,6 @@
 ---
 layout: default
-author: KiwilEstafas
+author: PKiwi_03
 title: Comparacion de variables ambientales en observaciones de Anolis cristatellus en Costa Rica (introducido) y Puerto Rico (Nativo)
 # categories: [Python Ciencia de Datos (Abr 2024)]
 hidden: [related_posts, navigator]

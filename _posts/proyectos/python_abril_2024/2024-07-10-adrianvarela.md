@@ -1,6 +1,6 @@
 ---
 layout: default
-author: KiwilEstafas
+author: PKiwi_03
 title: Limpieza y consolidación de tabla de Fincas del Estado Minae del Área de Conservación Central del Sistema Nacional de Áreas de Conservación
 # categories: [Python Ciencia de Datos (Abr 2024)]
 hidden: [related_posts, navigator]

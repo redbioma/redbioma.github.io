@@ -1,6 +1,6 @@
 ---
 layout: default
-author: KiwilEstafas
+author: PKiwi_03
 title: Análisis de la diversidad de anfibios en España a partir de datos de biodiversidad primarios
 # categories: [Python Ciencia de Datos (Abr 2024)]
 hidden: [related_posts, navigator]

@@ -1,6 +1,6 @@
 ---
 layout: default
-author: KiwilEstafas
+author: PKiwi_03
 title: Corredor ecológico para lepidópteras en zonas urbanas, entre el cerro Mokoron y UNAN, Managua.
 # categories: [Python Ciencia de Datos (Abr 2024)]
 hidden: [related_posts, navigator]
