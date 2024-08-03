@@ -1,6 +1,6 @@
 ---
 layout: default
-author: KiwilEstafas
+author: PKiwi_03
 title:  Evaluación de la Calidad del Agua en Estuarios y Lagos de Importancia Nacional Un Estudio Hidroquímico para la Sostenibilidad Ambiental
 # categories: [Python Ciencia de Datos (Abr 2024)]
 hidden: [related_posts, navigator]

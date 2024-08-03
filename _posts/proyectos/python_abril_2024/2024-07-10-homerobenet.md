@@ -1,6 +1,6 @@
 ---
 layout: default
-author: KiwilEstafas
+author: PKiwi_03
 title: Análisis espacial de varamientos marinos de ejemplares de cetáceos y tortugas marinas en la ciudad y puerto de Coatzacoalcos Veracruz, México
 # categories: [Python Ciencia de Datos (Abr 2024)]
 hidden: [related_posts, navigator]

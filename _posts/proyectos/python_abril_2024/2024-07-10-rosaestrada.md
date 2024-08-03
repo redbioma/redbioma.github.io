@@ -1,6 +1,6 @@
 ---
 layout: default
-author: KiwilEstafas
+author: PKiwi_03
 title: Moscas de las flores, descubriendo su distribución con la ayuda de la ciencia ciudadana
 # categories: [Python Ciencia de Datos (Abr 2024)]
 hidden: [related_posts, navigator]

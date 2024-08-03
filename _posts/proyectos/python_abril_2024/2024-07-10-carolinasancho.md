@@ -1,6 +1,6 @@
 ---
 layout: default
-author: KiwilEstafas
+author: PKiwi_03
 title: Incidencia y muertes por Covid a nivel mundial (2019-2023)
 # categories: [Python Ciencia de Datos (Abr 2024)]
 hidden: [related_posts, navigator]

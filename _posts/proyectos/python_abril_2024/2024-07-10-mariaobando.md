@@ -1,6 +1,6 @@
 ---
 layout: default
-author: KiwilEstafas
+author: PKiwi_03
 title: Análisis de datos de parcelas provenientes de plantaciones bajo contrato de Pago de Servicios Ambientales con FONAFIFO
 # categories: [Python Ciencia de Datos (Abr 2024)]
 hidden: [related_posts, navigator]
