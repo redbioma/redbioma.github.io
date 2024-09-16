@@ -15,7 +15,7 @@ author: María Mora Cross
 | [Introducción a Python para Ciencia de Datos][python_julio] | 03/04/2024 | 28/05/2024 | [Inscripciones Python para Ciencia de Datos][python_julio_form] |
 | [Aprendizaje Automático Aplicado a Datos de Biodiversidad][ML_julio] | 08/07/2024 | 26/08/2024 | [Inscripciones Aprendizaje Automático Aplicado a Datos de Biodiversidad][ML_julio_form] |
 | [Programa de Ciencia de Datos][ds_julio]                             | 08/07/2024 | 26/08/2024 | [Inscripciones Programa de Ciencia de Datos][ds_julio_form] |
-| [Lenguaje de Programación R][lenguaje_R]                             | Por definir |  Por definir | [Inscripciones Lenguaje de Programación R][lenguaje_R_form] |
+| [Lenguaje de Programación R][lenguaje_R]                             | 07/10/2024 |  13/11/2024 | [Inscripciones Lenguaje de Programación R][lenguaje_R_form] |
 
 
 # Cursos finalizados

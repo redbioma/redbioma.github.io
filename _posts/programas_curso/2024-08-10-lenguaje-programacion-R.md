@@ -42,7 +42,7 @@ El curso se impartirá en un solo grupo en los siguientes horarios:
 <b>Requisitos</b>
 <ul>
 <li>Tener disponibilidad de al menos 16 horas durante todo el programa para asistir a ocho sesiones sincrónicas virtuales de clases. (2hrs / clase)</li>
-<li>Tener disponibilidad de al menos 24 horas durante todo el programa para realizar tareas cortas, los laboratorios prácticos del curso y un proyecto final. (3hrs / semana)</li>
+<li>Tener disponibilidad de al menos 26 horas durante todo el programa para realizar tareas cortas, los laboratorios prácticos del curso y un proyecto final. (3hrs / semana)</li>
 <li>Llenar el formulario para <a href="https://forms.gle/gq98uQN32xz9uBx87">Participar en las actividades de la redbioma.</a> (anteriormente circulado, por favor llenarlo una sola vez)</li>
 </ul>
 
