@@ -25,7 +25,7 @@ El curso está enfocado en introducir algunas de las herramientas básicas para 
 
 <b>Horario y fecha de inicio</b>
 <br>
-El curso se impartirá en un solo grupo en los siguientes horarios:
+El curso se impartirá en un solo grupo en el siguiente horario:
 <ul>
     <li>Grupo #1: Horario por definir.</li>
 </ul>
@@ -84,7 +84,7 @@ El programa del curso es teórico/práctico donde los participantes pondrán en 
 ## Contenidos del programa
 <div style="text-align: justify">
 <ol>
-    <b><li>Introducción a R, Rstudio, programación (1 sesión de 2 horas).</li></b>
+    <b><li>Introducción a R, RStudio, programación (1 sesión de 2 horas).</li></b>
     <ol type="i">
         <li>Bases de programación en R.</li>
         <li>Tipos de objetos.</li>
@@ -164,7 +164,7 @@ Algunos de los materiales de apoyo son:
 - [R4DS](https://r4ds.hadley.nz/)
 - [Cheatsheets_html](https://rstudio.github.io/cheatsheets/)
 - [Cheatsheets_pdf](https://posit.co/resources/cheatsheets/)
-- [Rstudio Education](https://education.rstudio.com/)
+- [RStudio Education](https://education.rstudio.com/)
 - [Posit Academy](https://posit.co/products/enterprise/academy/)
 - [Posit Recipes](https://posit.cloud/learn/recipes)
 - [Biodiversity Data Science](https://www.biodiversitydatascience.com/code/)
