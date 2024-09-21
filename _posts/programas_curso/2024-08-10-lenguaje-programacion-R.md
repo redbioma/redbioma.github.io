@@ -16,6 +16,10 @@ banner:
     author: "Tania Urquiza-Haas"
 top: 3
 ---
+## Infografía 
+
+
+![](https://github.com/redbioma/redbioma.github.io/blob/master/assets/images/thumbnails/anuncio_cursosProgramacionR.png?raw=true){: .left-block :}
 
 ## Descripción
 <div style="text-align: justify">
@@ -25,9 +29,12 @@ El curso está enfocado en introducir algunas de las herramientas básicas para 
 
 <b>Horario y fecha de inicio</b>
 <br>
-El curso se impartirá en un solo grupo en el siguiente horario:
+Importante: Se abrirá un único grupo en el horario que cuente con la mayor cantidad de participantes inscritos.
+<br>
+Horarios:
 <ul>
-    <li>Grupo #1: Horario por definir.</li>
+    <li>Grupo #1: Inicia el miércoles 09 de octubre y se impartirá todos los miércoles de 3:00 p.m. a 5:00 p.m. (GMT-6) durante 8 semanas.</li>
+    <li>Grupo #2: Inicia el miércoles 09 de octubre y se impartirá todos los miércoles de 6:00 p.m. a 8:00 p.m. (GMT-6) durante 8 semanas.</li>
 </ul>
 <br>
 

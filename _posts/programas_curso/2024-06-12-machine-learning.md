@@ -21,7 +21,7 @@ top: 3
 ## Infografía 
 
 
-![](https://github.com/redbioma/redbioma.github.io/blob/master/assets/images/thumbnails/diagramacion_leila.jpg?raw=true){: .left-block :}
+![Texto alternativo](https://github.com/redbioma/redbioma.github.io/blob/master/assets/images/thumbnails/anuncio_cursosProgramacionR.png?raw=true)
 
 ## Descripción
 <div style="text-align: justify">
