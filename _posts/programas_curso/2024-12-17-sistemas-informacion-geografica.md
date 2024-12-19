@@ -50,7 +50,7 @@ Horario:
 
 </div>
 
-## Formulario de inscripción (Cupos limitados)
+## Formulario de inscripción
 Enlace: [Inscripciones Procesamiento de datos geoespaciales](https://docs.google.com/forms/d/e/1FAIpQLSeb35GlNsgWKTpKUINvkFK-hNwGk1J4aXpGy2oXYcNmMkUeLg/viewform)
 
 ## Objetivos
