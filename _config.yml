@@ -251,7 +251,3 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-spaceship
-  - jekyll-jupyter-notebook
-
-jupyter_notebook:
-  prompt: true
