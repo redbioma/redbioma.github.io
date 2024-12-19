@@ -5,19 +5,21 @@ subtitle: Red de Ciencia de Datos para la Conservación de la Biodiversidad Meso
 permalink: /courses.html
 date: 12-12-2023
 author: María Mora Cross
+full-width: true
 ---
 
 
 # Cursos
 
-| Programa del curso | Fecha de inicio | Fecha de fin | Formulario de inscripcion | Proyectos del curso |
-| ----------------------------------------------------------- | :--------: | :--------: | ------------------------- | ------------------ |
-| [Procesamiento de datos geoespaciales de biodiversidad mediante el lenguaje de programación Python][GIS]                             | 13/01/2025 |  03/03/2025 | [Inscripciones Procesamiento de datos geoespaciales][GIS_form] | En proceso |
-| [Programa de ciencia de datos][ds_julio]                             | 10/10/2024 | 19/12/2024 | [Inscripciones Programa de ciencia de datos][ds_julio_form] | En proceso |
-| [Lenguaje de programación R][lenguaje_R]                             | 09/10/2024 |  11/12/2024 | [Inscripciones Lenguaje de programación R][lenguaje_R_form] | En proceso |
-| [Introducción a Python para ciencia de datos][python_julio] | 24/07/2024 | 11/09/2024 | [Inscripciones Python para ciencia de datos][python_julio_form] | En proceso |
-| [Aprendizaje automático aplicado a datos de biodiversidad][ML_julio] | 08/07/2024 | 26/08/2024 | [Inscripciones Aprendizaje automático aplicado a datos de biodiversidad][ML_julio_form] | En proceso |
-| [Introducción a Python para ciencia de datos][python_abril]          | 03/04/2024 | 28/05/2024 | [Inscripciones Python para ciencia de datos][python_abril_form] | [Python para ciencia de datos 04/2024][python_abril_proyectos]|
+| Programa del curso | Fecha de inicio | Fecha de fin | Instructores | Proyectos del curso |
+| ------------------ | :-------------: | :----------: | ------------ | ------------------- |
+| [Procesamiento de datos geoespaciales de biodiversidad mediante el lenguaje de programación Python][GIS]                             | 13/01/2025 |  03/03/2025 | Manuel Vargas | En proceso |
+| [Programa de ciencia de datos][ds_julio]                             | 10/10/2024 | 19/12/2024 | Fundatec | En proceso |
+| [Lenguaje de programación R][lenguaje_R]                             | 09/10/2024 |  11/12/2024 | Jonathan Solórzano Villegas | En proceso |
+| [Introducción a Python para ciencia de datos][python_julio] | 24/07/2024 | 11/09/2024 | María Auxiliadora Mora, Josué Castro Ramírez, Benjamin Johnson Davis, Fabricio Ríos Montero, Alejandro Quesada | En proceso |
+| [Aprendizaje automático aplicado a datos de biodiversidad][ML_julio] | 08/07/2024 | 26/08/2024 | Emilia Zeledón Lostalo | En proceso |
+| [Introducción a Python para ciencia de datos][python_abril]          | 03/04/2024 | 28/05/2024 | María Auxiliadora Mora, Josué Castro Ramírez, Benjamin Johnson Davis, Fabricio Ríos Montero, Ervin Rodríguez Villanueva | [Python para ciencia de datos 04/2024][python_abril_proyectos]|
+
 
 
 <!-- Python Julio 2024-->
