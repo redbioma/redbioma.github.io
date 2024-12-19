@@ -13,7 +13,7 @@ full-width: true
 
 | Programa del curso | Fecha de inicio | Fecha de fin | Instructores | Proyectos del curso |
 | ------------------ | :-------------: | :----------: | ------------ | ------------------- |
-| [Procesamiento de datos geoespaciales de biodiversidad mediante el lenguaje de programación Python][GIS]                             | 13/01/2025 |  03/03/2025 | Manuel Vargas | En proceso |
+| [Procesamiento de datos geoespaciales de biodiversidad mediante el lenguaje de programación Python][GIS]                             | 13/01/2025 |  03/03/2025 | Manuel Vargas Del Valle | En proceso |
 | [Programa de ciencia de datos][ds_julio]                             | 10/10/2024 | 19/12/2024 | Fundatec | En proceso |
 | [Lenguaje de programación R][lenguaje_R]                             | 09/10/2024 |  11/12/2024 | Jonathan Solórzano Villegas | En proceso |
 | [Introducción a Python para ciencia de datos][python_julio] | 24/07/2024 | 11/09/2024 | María Auxiliadora Mora, Josué Castro Ramírez, Benjamin Johnson Davis, Fabricio Ríos Montero, Alejandro Quesada | En proceso |
