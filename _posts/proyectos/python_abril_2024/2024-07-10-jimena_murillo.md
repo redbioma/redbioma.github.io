@@ -25,6 +25,9 @@ Realizado por: Jimena Murillo Montero y Diana Margarita Mojica Muñoz
 
 # Cuaderno de Jupyter
 
-{::nomarkdown}
-{% jupyter_notebook "/assets/jupyter/jimena_murillo.fixed.ipynb"%}
-{:/nomarkdown}
+<iframe 
+    src="/assets/html/jimena_murillo.html" 
+    width="100%" 
+    height="600" 
+    style="border: 1px solid #ccc;"
+></iframe>

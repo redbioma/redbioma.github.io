@@ -22,6 +22,9 @@ sidebar: []
 
 # Cuaderno de Jupyter
 
-{::nomarkdown}
-{% jupyter_notebook "/assets/jupyter/cynthia_tercero.fixed.ipynb"%}
-{:/nomarkdown}
+<iframe 
+    src="/assets/html/cynthia_tercero.html" 
+    width="100%" 
+    height="600" 
+    style="border: 1px solid #ccc;"
+></iframe>

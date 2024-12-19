@@ -25,6 +25,9 @@ Realizado por:  Rosa Roldán, Habibi Orellana y  Isabel Martínez
 
 # Cuaderno de Jupyter
 
-{::nomarkdown}
-{% jupyter_notebook "/assets/jupyter/rosa_roldan.fixed.ipynb"%}
-{:/nomarkdown}
+<iframe 
+    src="/assets/html/rosa_roldan.html" 
+    width="100%" 
+    height="600" 
+    style="border: 1px solid #ccc;"
+></iframe>
