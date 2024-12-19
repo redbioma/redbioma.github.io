@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://redbioma.org/jekyll-theme-yat/feed.xml" rel="self" type="application/atom+xml" /><link href="https://redbioma.org/jekyll-theme-yat/" rel="alternate" type="text/html" hreflang="es" /><updated>2024-12-19T23:42:35+00:00</updated><id>https://redbioma.org/jekyll-theme-yat/feed.xml</id><title type="html">redbioma</title><subtitle>La Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana (redbioma) pretende implementar una conexión viva entre personas e instituciones para impulsar el desarrollo de capacidades y la investigación en conservación de la biodiversidad, para lograr estos objetivos se debe contar con el apoyo de todos sus miembros.</subtitle><author><name>redbioma</name></author><entry><title type="html">Programa del curso Procesamiento de datos geoespaciales de biodiversidad mediante el lenguaje de programación Python</title><link href="https://redbioma.org/jekyll-theme-yat/cursos/2024-12-sistemas-informacion-geografica.html" rel="alternate" type="text/html" title="Programa del curso Procesamiento de datos geoespaciales de biodiversidad mediante el lenguaje de programación Python" /><published>2024-12-17T00:00:00+00:00</published><updated>2024-12-17T00:00:00+00:00</updated><id>https://redbioma.org/jekyll-theme-yat/cursos/sistemas-informacion-geografica</id><content type="html" xml:base="https://redbioma.org/jekyll-theme-yat/cursos/2024-12-sistemas-informacion-geografica.html"><![CDATA[<h2 id="descripción">Descripción</h2>
+<div style="text-align: justify">
+Este curso trata sobre el manejo, visualización y análisis de datos geoespaciales de biodiversidad mediante el lenguaje de programación Python. Se estudian los fundamentos de Python, sus módulos geoespaciales y su aplicación al procesamiento de datos de biodiversidad. Se demuestra como metodologías y técnicas de ciencia de datos pueden ser aplicadas al componente geoespacial de datos de biodiversidad.
+
+<br /><br />
+
+<b>Horario y fecha de inicio</b>
+<br />
+Importante: Se abrirá un único grupo.
+<br />
+Horario:
+<ul>
+    Inicia el lunes 13 de enero de 2025 y se impartirá todos los lunes de 6:00 p.m. a 8:00 p.m. (GMT-6) durante 8 semanas.
+</ul>
+<br />
+
+<b>Tipo de curso</b>
+<br />
+<ul>
+    <li>Modalidad:  Virtual, 8 sesiones sincrónicas semanales.</li>
+    <li>Teórico/Práctico: Para completar el programa, es necesario tener una asistencia efectiva de más del 75% de las clases sincrónicas virtuales, y sus evaluaciones con un promedio mayor o igual a 70.</li>
+    <li>Costo: Gratuito.</li>
+</ul>
+
+<b>Requisitos</b>
+<ul>
+<li>Tener disponibilidad de al menos 16 horas durante todo el programa para asistir a ocho sesiones sincrónicas virtuales de clases. (2hrs / clase)</li>
+<li>Tener disponibilidad de al menos 26 horas durante todo el programa para realizar tareas cortas y un proyecto final. (3hrs / semana)</li>
+<li>Llenar el formulario para <a href="https://forms.gle/gq98uQN32xz9uBx87">Participar en las actividades de la redbioma.</a> (anteriormente circulado, por favor llenarlo una sola vez)</li>
+</ul>
+
+</div>
+
+<h2 id="formulario-de-inscripción">Formulario de inscripción</h2>
+<p>Enlace: <a href="https://docs.google.com/forms/d/e/1FAIpQLSeb35GlNsgWKTpKUINvkFK-hNwGk1J4aXpGy2oXYcNmMkUeLg/viewform">Inscripciones Procesamiento de datos geoespaciales</a></p>
+
+<h2 id="objetivos">Objetivos</h2>
+
+<h3 id="general">General</h3>
+<div style="text-align: justify">
+Aprender a desarrollar programas en el lenguaje de programación Python orientados al procesamiento de datos geoespaciales de biodiversidad.
+</div>
+
+<h3 id="específicos">Específicos</h3>
+<div style="text-align: justify">
+<ul>
+    <li>Aplicar un enfoque de ciencia de datos en los procesos de importación, transformación, visualización, análisis y comunicación de datos geoespaciales de biodiversidad.</li>
+    <li>Desarrollar soluciones reproducibles a problemas computacionales mediante Python.</li>
+    <li>Integrar visualizaciones tabulares, gráficas y geoespaciales de datos de biodiversidad en documentos y aplicaciones interactivas desarrolladas en Python.</li>
+    
+</ul>
+</div>
+
+<h2 id="metodología-del-curso">Metodología del curso</h2>
+<div style="text-align: justify">
+El curso se desarrolla mediante clases teórico-prácticas virtuales y sincrónicas. Los conceptos teóricos son explicados por el profesor durante las sesiones teóricas y también a través de lecturas previamente asignadas. Las sesiones prácticas se destinan a la realización de diferentes ejercicios de programación por parte de los estudiantes.   
+<br /><br />
+Los contenidos de las lecciones están disponibles en el sitio web del curso, en el que hay enlaces a la bibliografía y a otros recursos de aprendizaje como tutoriales y videos.
+<br /><br />
+<b>Importante:</b>
+<ul>
+    <li>Todas las sesiones sincrónicas serán grabadas y publicadas en el sitio web del proyecto.</li>
+    <li>Los proyectos finales de investigación serán publicados en el sitio web del proyecto.</li>
+</ul>
+</div>
+
+<h2 id="contenidos-del-programa">Contenidos del programa</h2>
+<div style="text-align: justify">
+<ol>
+    <b><li>Introducción al curso.</li></b>
+    <ol type="i">
+        <li>Revisión del programa del curso.</li>
+        <li>Ciencia de datos y reproducibilidad.</li>
+        <li>El lenguaje de marcado Markdown.</li>
+        <li>Cuadernos de notas Jupyter.</li>
+    </ol>
+    <b><li>El lenguaje de programación Python.</li></b>
+    <ol type="i">
+        <li>Tipos de datos básicos.</li>
+        <li>Variables.</li>
+        <li>Expresiones.</li>
+        <li>Comentarios.</li>
+        <li>Condicionales.</li>
+    </ol>
+    <b><li>El lenguaje de programación Python (continuación).</li></b>
+    <ol type="i">
+        <li>Ciclos.</li>
+        <li>Estructuras de datos.</li>
+        <ol type="i">
+            <li>Listas.</li>
+            <li>Tuplas.</li>
+            <li>Conjuntos.</li>
+            <li>Diccionarios.</li>
+        </ol>
+    </ol>
+    <b><li>Introducción a los datos de biodiversidad.</li></b>
+    <ol type="i">
+        <li>El estándar de Darwin Core.</li>
+        <li>La biblioteca Pygbif.</li>
+    </ol>
+    <b><li>Análisis y visualización de datos.</li></b>
+    <ol type="i">
+        <li>La biblioteca Pandas.</li>
+    </ol>
+    <b><li>Graficación estadística.</li></b>
+    <ol type="i">
+        <li>La biblioteca Matplotlib.</li>
+        <li>La biblioteca Plotly.</li>
+    </ol>
+    <b><li>Introducción a los datos geoespaciales.</li></b>
+    <ol type="i">
+        <li>Modelos de datos.</li>
+        <li>Sistemas de información geográfica.</li>
+    </ol>
+    <b><li> Datos vectoriales. </li></b>
+    <ol type="i">
+        <li>La biblioteca GeoPandas.</li>
+    </ol>
+    <b><li>Datos raster.</li></b>
+    <ol type="i">
+        <li>La biblioteca Rasterio.</li>
+    </ol>
+    <b><li>Visualización de datos geoespaciales de biodiversidad.</li></b>
+    <ol type="i">
+        <li>La biblioteca Leafmap.</li>
+    </ol>
+</ol>
+</div>
+
+<h2 id="evaluación">Evaluación</h2>
+<div style="text-align: justify">
+Las personas estudiantes llevarán a cabo tareas y un proyecto final, los rubros de las evaluaciones serán los siguientes:
+</div>
+<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Rubro</th>
+      <th style="text-align: center">Valor (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Asistencias</td>
+      <td style="text-align: center">30</td>
+    </tr>
+    <tr>
+      <td>Tareas</td>
+      <td style="text-align: center">30</td>
+    </tr>
+    <tr>
+      <td>Proyecto final</td>
+      <td style="text-align: center">40</td>
+    </tr>
+    <tr>
+      <td>Total</td>
+      <td style="text-align: center">100</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="cronograma-de-clases">Cronograma de clases</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Clase</th>
+      <th>Tema</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Introducción</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Lenguaje de programación Python</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Lenguaje de programación Python (continuación)</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Introducción a los datos de biodiversidad, Análisis y visualización de datos</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Graficación estadística</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Introducción a los datos geoespaciales, Datos vectoriales</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Datos raster</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Visualización de datos geoespaciales de biodiversidad</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="referencias">Referencias</h2>
+
+<ol>
+  <li>
+    <p>Downey, Allen B. (2024). Think Python: How to Think Like a Computer Scientist (3rd ed.). O’Reilly Media. <a href="https://greenteapress.com/wp/think-python-3rd-edition">Enlace externo</a></p>
+  </li>
+  <li>
+    <p>Geopandas contributors. (s.f.). geopandas: Geographic pandas extensions. Recuperado 1 de enero de 2022, de <a href="http://geopandas.org">Enlace externo</a></p>
+  </li>
+  <li>
+    <p>Gillies, S. (s.f.). rasterio: Fast and direct raster I/O for use with Numpy and SciPy. Recuperado 1 de enero de 2022, de <a href="https://github.com/mapbox/rasterio">Enlace externo</a></p>
+  </li>
+  <li>
+    <p>Kaggle. (s.f.-a). Learn Pandas. Recuperado 1 de agosto de 2024, de <a href="https://www.kaggle.com/learn/pandas">Enlace externo</a></p>
+  </li>
+  <li>
+    <p>Kaggle. (s.f.-b). Learn Data Visualization. Recuperado 1 de agosto de 2024, de <a href="https://www.kaggle.com/learn/data-visualization">Enlace externo</a></p>
+  </li>
+  <li>
+    <p>Kaggle. (s.f.-c). Learn Geospatial Analysis. Recuperado 1 de agosto de 2024, de <a href="https://www.kaggle.com/learn/geospatial-analysis">Enlace externo</a></p>
+  </li>
+  <li>
+    <p>Markdown Tutorial. (s.f.). Recuperado 19 de marzo de 2022, de <a href="https://www.markdowntutorial.com/">Enlace externo</a></p>
+  </li>
+  <li>
+    <p>P, C. (s.f.). plotly: An open-source, interactive data visualization library for Python. Recuperado 1 de agosto de 2024, de <a href="https://plotly.com/python/">Enlace externo</a></p>
+  </li>
+  <li>
+    <p>Rey, S. J., Arribas-Bel, D., &amp; Wolf, L. J. (2020). Geographic Data Science with Python. <a href="https://geographicdata.science/book/">Enlace externo</a></p>
+  </li>
+  <li>
+    <p>Severance, D. C. R. (2016). Python for Everybody: Exploring Data in Python 3 (S. Blumenberg &amp; E. Hauser, Eds.). CreateSpace Independent Publishing Platform. <a href="https://www.py4e.com/html3/">Enlace externo</a></p>
+  </li>
+  <li>
+    <p>The Pandas Development Team. (s.f.). pandas: Powerful data structures for data analysis, time series, and statistics. Recuperado 1 de enero de 2022, de <a href="https://pandas.pydata.org">Enlace externo</a></p>
+  </li>
+</ol>
+
+<h2 id="contactos">Contactos</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Persona facilitadora</th>
+      <th>Correo electrónico</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Instructor: Manuel Vargas</td>
+      <td>[mfvargas@gmail.com ](mailto:mfvargas@gmail.com )</td>
+    </tr>
+    <tr>
+      <td>María Auxiliadora Mora</td>
+      <td>[maria.mora@itcr.ac.cr](mailto:maria.mora@itcr.ac.cr)</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>biarretam</name></author><category term="Cursos" /><summary type="html"><![CDATA[Descripción Este curso trata sobre el manejo, visualización y análisis de datos geoespaciales de biodiversidad mediante el lenguaje de programación Python. Se estudian los fundamentos de Python, sus módulos geoespaciales y su aplicación al procesamiento de datos de biodiversidad. Se demuestra como metodologías y técnicas de ciencia de datos pueden ser aplicadas al componente geoespacial de datos de biodiversidad.]]></summary></entry><entry><title type="html">Programa del curso Lenguaje de programación R</title><link href="https://redbioma.org/jekyll-theme-yat/cursos/2024-08-lenguaje-programacion-R.html" rel="alternate" type="text/html" title="Programa del curso Lenguaje de programación R" /><published>2024-08-10T00:00:00+00:00</published><updated>2024-08-10T00:00:00+00:00</updated><id>https://redbioma.org/jekyll-theme-yat/cursos/lenguaje-programacion-R</id><content type="html" xml:base="https://redbioma.org/jekyll-theme-yat/cursos/2024-08-lenguaje-programacion-R.html"><![CDATA[<h2 id="infografía">Infografía</h2>
+
+<p><img src="https://github.com/redbioma/redbioma.github.io/blob/master/assets/images/thumbnails/anuncio_cursosProgramacionR.png?raw=true" alt="" class="left-block" /></p>
+
+<h2 id="descripción">Descripción</h2>
+<div style="text-align: justify">
+El curso está enfocado en introducir algunas de las herramientas básicas para hacer ciencia de datos usando el lenguaje R. Debido a que es un curso introductorio, también se revisarán algunos conceptos básicos del uso general del lenguaje R. Se espera que el curso brinde las bases para que los estudiantes puedan desarrollar sus propios proyectos enfocados en analizar datos de biodiversidad.
+
+<br /><br />
+
+<b>Horario y fecha de inicio</b>
+<br />
+Importante: Se abrirá un único grupo en el horario que cuente con la mayor cantidad de participantes inscritos.
+<br />
+Horarios:
+<ul>
+    <li>Grupo #1: Inicia el miércoles 09 de octubre y se impartirá todos los miércoles de 3:00 p.m. a 5:00 p.m. (GMT-6) durante 8 semanas.</li>
+    <li>Grupo #2: Inicia el miércoles 09 de octubre y se impartirá todos los miércoles de 6:00 p.m. a 8:00 p.m. (GMT-6) durante 8 semanas.</li>
+</ul>
+<br />
+
+<b>Tipo de curso</b>
+<br />
+<ul>
+    <li>Modalidad:  Virtual, 8 sesiones sincrónicas semanales.</li>
+    <li>Teórico/Práctico: Para completar el programa, es necesario tener una asistencia efectiva de más del 75% de las clases sincrónicas virtuales, y sus evaluaciones con un promedio mayor o igual a 70.</li>
+    <li>Costo: Gratuito.</li>
+</ul>
+
+<b>Requisitos</b>
+<ul>
+<li>Tener disponibilidad de al menos 16 horas durante todo el programa para asistir a ocho sesiones sincrónicas virtuales de clases. (2hrs / clase)</li>
+<li>Tener disponibilidad de al menos 26 horas durante todo el programa para realizar tareas cortas, los laboratorios prácticos del curso y un proyecto final. (3hrs / semana)</li>
+<li>Llenar el formulario para <a href="https://forms.gle/gq98uQN32xz9uBx87">Participar en las actividades de la redbioma.</a> (anteriormente circulado, por favor llenarlo una sola vez)</li>
+</ul>
+
+</div>
+
+<h2 id="formulario-de-inscripción-cupos-limitados">Formulario de inscripción (Cupos limitados)</h2>
+<p>Enlace: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdND7N3UCjgXMbDp6ULa6TGbbnYhrCSA0rpcvrNhqKR1D42rQ/viewform?usp=sharing">Inscripciones Lenguaje de Programación R</a></p>
+
+<h2 id="objetivos">Objetivos</h2>
+
+<h3 id="general">General</h3>
+<div style="text-align: justify">
+Desarrollar las habilidades de programación y de resolución de problemas con datos de biodiversidad, utilizando el lenguaje R. El curso ofrecerá las bases de programación en R y brindará herramientas para llevar a cabo distintas procesos relacionados con la ciencia de datos.
+</div>
+
+<h3 id="específicos">Específicos</h3>
+<div style="text-align: justify">
+<ul>
+    <li>Brindar las bases de la programación en R.</li>
+    <li>Proveer conocimientos sobre el uso de funciones y paquetes relevantes para el análisis de datos de biodiversidad.</li>
+    <li>Identificar estrategias para el uso de nuevos paquetes y funciones.</li>
+    
+</ul>
+</div>
+
+<h2 id="metodología-del-curso">Metodología del curso</h2>
+<div style="text-align: justify">
+El curso estará basado en un aprendizaje activo por medio de la resolución de problemas. Por lo tanto, aunque el curso es teórico / práctico, su componente más extenso serán las prácticas. Se espera que estas muestren ejemplos de uso de ciertas funciones y que luego se utilicen estos conocimientos en un nuevo conjunto de prácticas en las tareas.   
+<br /><br />
+El programa del curso es teórico/práctico donde los participantes pondrán en práctica los conocimientos teóricos mediante casos de estudios, discusiones grupales, y un proyecto de investigación. 
+<br /><br />
+<b>Importante:</b>
+<ul>
+    <li>Todas las sesiones sincrónicas serán grabadas y publicadas en el sitio web del proyecto.</li>
+    <li>Los proyectos finales de investigación serán publicados en el sitio web del proyecto.</li>
+</ul>
+</div>
+
+<h2 id="contenidos-del-programa">Contenidos del programa</h2>
+<div style="text-align: justify">
+<ol>
+    <b><li>Introducción a R, RStudio, programación (1 sesión de 2 horas).</li></b>
+    <ol type="i">
+        <li>Bases de programación en R.</li>
+        <li>Tipos de objetos.</li>
+    </ol>
+    <b><li>Manejo de datos (1 sesión de 2 horas).</li></b>
+    <ol type="i">
+        <li>Flujo de trabajo en ciencia de datos.</li>
+        <li>Paquetes.</li>
+        <li>I/O datos.</li>
+    </ol>
+    <b><li>Acomodo de datos (1 sesión de 2 horas).</li></b>
+    <ol type="i">
+        <li>Preprocesamiento con dplyr y tidyr.</li>
+    </ol>
+    <b><li>Análisis estadísticos (1 sesión de 2 horas).</li></b>
+    <ol type="i">
+        <li>Análisis paramétricos y no paramétricos con rstatix.</li>
+    </ol>
+    <b><li>Gráficos (1 sesión de 2 horas).</li></b>
+    <ol type="i">
+        <li>Gráficos personalizables con ggplot2.</li>
+    </ol>
+    <b><li>Métricas de diversidad (1 sesión de 2 horas).</li></b>
+    <ol type="i">
+        <li>Índices de diversidad y curvas de acumulación de especies.</li>
+    </ol>
+    <b><li> Modelos (1 sesión de 2 horas). </li></b>
+    <ol type="i">
+        <li>Entrenamiento y Evaluación de modelos con tidymodels.</li>
+    </ol>
+    <b><li>Cierre y descripción de trabajo final (1 sesión de 2 horas).</li></b>
+    <ol type="i">
+        <li>Creación de reportes con Quarto.</li>
+        <li>Recapitulación.</li>
+    </ol>
+
+</ol>
+</div>
+
+<h2 id="evaluación">Evaluación</h2>
+<div style="text-align: justify">
+Las personas estudiantes llevarán a cabo tareas y un proyecto final, los rubros de las evaluaciones serán los siguientes:
+</div>
+<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Rubro</th>
+      <th style="text-align: center">Valor (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Clases presenciales</td>
+      <td style="text-align: center">40</td>
+    </tr>
+    <tr>
+      <td>Tareas</td>
+      <td style="text-align: center">30</td>
+    </tr>
+    <tr>
+      <td>Proyecto final</td>
+      <td style="text-align: center">30</td>
+    </tr>
+    <tr>
+      <td>Total</td>
+      <td style="text-align: center">100</td>
+    </tr>
+  </tbody>
+</table>
+
+<div style="text-align: justify">
+El proyecto final consta de la aplicación de los conocimientos adquiridos en el curso a un problema de interés de cada estudiante. 
+<br />
+Las tareas se dejarán después de cada clase y se podrán entregar hasta las 00:00 GMT-6 horas del día de la siguiente clase.
+
+</div>
+
+<h2 id="cronograma-de-clases">Cronograma de clases</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Clase</th>
+      <th>Tema</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Introducción</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Paquetes, I/O datos</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Manejo de datos</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Análisis estadísticos</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Gráficos personalizables</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Métricas de diversidad</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Modelos</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Creación de reportes y cierre</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="materiales">Materiales</h2>
+<p>Algunos de los materiales de apoyo son:</p>
+<ul>
+  <li><a href="https://r4ds.hadley.nz/">R4DS</a></li>
+  <li><a href="https://rstudio.github.io/cheatsheets/">Cheatsheets_html</a></li>
+  <li><a href="https://posit.co/resources/cheatsheets/">Cheatsheets_pdf</a></li>
+  <li><a href="https://education.rstudio.com/">RStudio Education</a></li>
+  <li><a href="https://posit.co/products/enterprise/academy/">Posit Academy</a></li>
+  <li><a href="https://posit.cloud/learn/recipes">Posit Recipes</a></li>
+  <li><a href="https://www.biodiversitydatascience.com/code/">Biodiversity Data Science</a></li>
+</ul>
+
+<h2 id="referencias">Referencias</h2>
+<ol>
+  <li>
+    <p>Wickham H., Çetinkaya-Rundel M., Grolemund G. 2023. R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. 2nd Edition. <a href="https://r4ds.hadley.nz/">link</a></p>
+  </li>
+  <li>
+    <p>Wilke C.2019. Fundamentals of Data Visualization. 1st edition.<a href="https://clauswilke.com/dataviz/">link</a></p>
+  </li>
+  <li>
+    <p>Kuhn M., Silge J. 2023. Tidy Modeling with R. <a href="https://www.tmwr.org/">link</a></p>
+  </li>
+  <li>
+    <p>Roswell, M., Dushoff, J. and Winfree, R. (2021), A conceptual guide to measuring species diversity. Oikos, 130: 321-338. <a href="https://doi.org/10.1111/oik.07202">link</a></p>
+  </li>
+</ol>
+
+<h2 id="contactos">Contactos</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Persona facilitadora</th>
+      <th>Correo electrónico</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Instructor: Jonathan Solórzano Villegas</td>
+      <td>[jonathanvsv@gmail.com ](mailto:jonathanvsv@gmail.com )</td>
+    </tr>
+    <tr>
+      <td>María Auxiliadora Mora</td>
+      <td>[maria.mora@itcr.ac.cr](mailto:maria.mora@itcr.ac.cr)</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>PKiwi_03</name></author><category term="Cursos" /><summary type="html"><![CDATA[Infografía]]></summary></entry><entry><title type="html">Limpieza y consolidación de tabla de Fincas del Estado Minae del Área de Conservación Central del Sistema Nacional de Áreas de Conservación</title><link href="https://redbioma.org/jekyll-theme-yat/proyectos/2024-04-python-ciencia-datos/limpieza-consolidacion-fincas.html" rel="alternate" type="text/html" title="Limpieza y consolidación de tabla de Fincas del Estado Minae del Área de Conservación Central del Sistema Nacional de Áreas de Conservación" /><published>2024-07-10T00:00:00+00:00</published><updated>2024-07-10T00:00:00+00:00</updated><id>https://redbioma.org/jekyll-theme-yat/proyectos/2024-04-python-ciencia-datos/adrian_varela</id><content type="html" xml:base="https://redbioma.org/jekyll-theme-yat/proyectos/2024-04-python-ciencia-datos/limpieza-consolidacion-fincas.html"><![CDATA[<h1 id="limpieza-y-consolidación-de-tabla-de-fincas-del-estado-minae-del-área-de-conservación-central-del-sistema-nacional-de-áreas-de-conservación">Limpieza y consolidación de tabla de Fincas del Estado Minae del Área de Conservación Central del Sistema Nacional de Áreas de Conservación</h1>
+
+<h2 style="color: gray; font-weight: normal;">
+Realizado por: Adrián Varela Arquín
+</h2>
+
+<hr />
+
+<p><br /></p>
+
+<h1 id="cuaderno-de-jupyter">Cuaderno de Jupyter</h1>
+<iframe src="/assets/html/adrian_varela.html" width="100%" height="600" style="border: 1px solid #ccc;"></iframe>]]></content><author><name>PKiwi_03</name></author><summary type="html"><![CDATA[Limpieza y consolidación de tabla de Fincas del Estado Minae del Área de Conservación Central del Sistema Nacional de Áreas de Conservación]]></summary></entry><entry><title type="html">Análisis de la diversidad de anfibios en España a partir de datos de biodiversidad primarios</title><link href="https://redbioma.org/jekyll-theme-yat/proyectos/2024-04-python-ciencia-datos/analisis-diversidad-anfibios-espa%C3%B1a.html" rel="alternate" type="text/html" title="Análisis de la diversidad de anfibios en España a partir de datos de biodiversidad primarios" /><published>2024-07-10T00:00:00+00:00</published><updated>2024-07-10T00:00:00+00:00</updated><id>https://redbioma.org/jekyll-theme-yat/proyectos/2024-04-python-ciencia-datos/ana_fandino</id><content type="html" xml:base="https://redbioma.org/jekyll-theme-yat/proyectos/2024-04-python-ciencia-datos/analisis-diversidad-anfibios-espa%C3%B1a.html"><![CDATA[<h1 id="análisis-de-la-diversidad-de-anfibios-en-españa-a-partir-de-datos-de-biodiversidad-primarios">Análisis de la diversidad de anfibios en España a partir de datos de biodiversidad primarios</h1>
+<h2 style="color: gray; font-weight: normal;">
+Realizado por:  Ana Fandiño Carro
+</h2>
+
+<hr />
+
+<p><br /><br /></p>
+
+<h1 id="presentación">Presentación</h1>
+
+<p><img src="https://youtu.be/ho64zDFF83k?si=oF9Q0ZaP2SOH-T0g" alt="video de clase" /></p>
+
+<p><br /></p>
+
+<h1 id="cuaderno-de-jupyter">Cuaderno de Jupyter</h1>
+
+<iframe src="/assets/html/ana_fandino.html" width="100%" height="600" style="border: 1px solid #ccc;"></iframe>]]></content><author><name>PKiwi_03</name></author><summary type="html"><![CDATA[Análisis de la diversidad de anfibios en España a partir de datos de biodiversidad primarios Realizado por: Ana Fandiño Carro]]></summary></entry><entry><title type="html">Incidencia y muertes por Covid a nivel mundial (2019-2023)</title><link href="https://redbioma.org/jekyll-theme-yat/proyectos/2024-04-python-ciencia-datos/incidencia-muertes-covid-nivel-mundial.html" rel="alternate" type="text/html" title="Incidencia y muertes por Covid a nivel mundial (2019-2023)" /><published>2024-07-10T00:00:00+00:00</published><updated>2024-07-10T00:00:00+00:00</updated><id>https://redbioma.org/jekyll-theme-yat/proyectos/2024-04-python-ciencia-datos/carolina_sancho</id><content type="html" xml:base="https://redbioma.org/jekyll-theme-yat/proyectos/2024-04-python-ciencia-datos/incidencia-muertes-covid-nivel-mundial.html"><![CDATA[<h1 id="incidencia-y-muertes-por-covid-a-nivel-mundial-2019-2023">Incidencia y muertes por Covid a nivel mundial (2019-2023)</h1>
+<h2 style="color: gray; font-weight: normal;">
+Realizado por: Carolina Sancho Blanco
+</h2>
+
+<hr />
+
+<p><br /><br /></p>
+
+<h1 id="presentación">Presentación</h1>
+
+<p><img src="https://youtu.be/M-vx-KpDjCg?si=2TMJeDBE-nA5x3vv" alt="video de clase" /></p>
+
+<p><br /></p>
+
+<h1 id="cuaderno-de-jupyter">Cuaderno de Jupyter</h1>
+
+<iframe src="/assets/html/carolina_sancho.html" width="100%" height="600" style="border: 1px solid #ccc;"></iframe>]]></content><author><name>PKiwi_03</name></author><summary type="html"><![CDATA[Incidencia y muertes por Covid a nivel mundial (2019-2023) Realizado por: Carolina Sancho Blanco]]></summary></entry><entry><title type="html">Análisis de observaciones realizadas en iNaturalist, para clase Aves</title><link href="https://redbioma.org/jekyll-theme-yat/proyectos/2024-04-python-ciencia-datos/analisis-observaciones-iNaturalist-clase-aves.html" rel="alternate" type="text/html" title="Análisis de observaciones realizadas en iNaturalist, para clase Aves" /><published>2024-07-10T00:00:00+00:00</published><updated>2024-07-10T00:00:00+00:00</updated><id>https://redbioma.org/jekyll-theme-yat/proyectos/2024-04-python-ciencia-datos/cynthia_tercero</id><content type="html" xml:base="https://redbioma.org/jekyll-theme-yat/proyectos/2024-04-python-ciencia-datos/analisis-observaciones-iNaturalist-clase-aves.html"><![CDATA[<h1 id="análisis-de-observaciones-realizadas-en-inaturalist-para-clase-aves---una-muestra-para-7-países">Análisis de observaciones realizadas en iNaturalist, para clase Aves - Una muestra para 7 países</h1>
+<h2 style="color: gray; font-weight: normal;">Realizado por: Cynthia Tercero Rojas</h2>
+
+<hr />
+
+<p><br /><br /></p>
+
+<h1 id="presentación">Presentación</h1>
+
+<p><img src="https://youtu.be/IlBYLoIMneE" alt="video de clase" /></p>
+
+<p><br /></p>
+
+<h1 id="cuaderno-de-jupyter">Cuaderno de Jupyter</h1>
+
+<iframe src="/assets/html/cynthia_tercero.html" width="100%" height="600" style="border: 1px solid #ccc;"></iframe>]]></content><author><name>sjcr23</name></author><summary type="html"><![CDATA[Análisis de observaciones realizadas en iNaturalist, para clase Aves - Una muestra para 7 países Realizado por: Cynthia Tercero Rojas]]></summary></entry><entry><title type="html">Fenología del Dipteryx</title><link href="https://redbioma.org/jekyll-theme-yat/proyectos/2024-04-python-ciencia-datos/fenologia-dipteryx.html" rel="alternate" type="text/html" title="Fenología del Dipteryx" /><published>2024-07-10T00:00:00+00:00</published><updated>2024-07-10T00:00:00+00:00</updated><id>https://redbioma.org/jekyll-theme-yat/proyectos/2024-04-python-ciencia-datos/dawa_mendez</id><content type="html" xml:base="https://redbioma.org/jekyll-theme-yat/proyectos/2024-04-python-ciencia-datos/fenologia-dipteryx.html"><![CDATA[<h1 id="fenología-del-dipteryx">Fenología del Dipteryx</h1>
+<h2 style="color: gray; font-weight: normal;">
+Realizado por:  Jose Pablo Jiménez y Dawa Méndez Álvarez 
+</h2>
+
+<hr />
+
+<p><br /></p>
+
+<h1 id="cuaderno-de-jupyter">Cuaderno de Jupyter</h1>
+
+<iframe src="/assets/html/dawa_mendez.html" width="100%" height="600" style="border: 1px solid #ccc;"></iframe>]]></content><author><name>PKiwi_03</name></author><summary type="html"><![CDATA[Fenología del Dipteryx Realizado por: Jose Pablo Jiménez y Dawa Méndez Álvarez]]></summary></entry><entry><title type="html">Proyectos de pago de servicios ambientales en la conservación de la fauna</title><link href="https://redbioma.org/jekyll-theme-yat/proyectos/2024-04-python-ciencia-datos/proyectos-pago-servicio.html" rel="alternate" type="text/html" title="Proyectos de pago de servicios ambientales en la conservación de la fauna" /><published>2024-07-10T00:00:00+00:00</published><updated>2024-07-10T00:00:00+00:00</updated><id>https://redbioma.org/jekyll-theme-yat/proyectos/2024-04-python-ciencia-datos/esaud_chaves</id><content type="html" xml:base="https://redbioma.org/jekyll-theme-yat/proyectos/2024-04-python-ciencia-datos/proyectos-pago-servicio.html"><![CDATA[<h1 id="proyectos-de-pago-de-servicios-ambientales-en-la-conservación-de-la-fauna">Proyectos de pago de servicios ambientales en la conservación de la fauna</h1>
+<h2 style="color: gray; font-weight: normal;">
+Realizado por: Esaud E. Chaves Picado y Jennifer Hernández Sánchez
+</h2>
+
+<hr />
+
+<p><br /><br /></p>
+
+<h1 id="presentación">Presentación</h1>
+
+<p><img src="https://youtu.be/yaEsE5_vx6I" alt="video de clase" /></p>
+
+<p><br /></p>
+
+<h1 id="cuaderno-de-jupyter">Cuaderno de Jupyter</h1>
+
+<iframe src="/assets/html/esaud_chaves.html" width="100%" height="600" style="border: 1px solid #ccc;"></iframe>]]></content><author><name>PKiwi_03</name></author><summary type="html"><![CDATA[Proyectos de pago de servicios ambientales en la conservación de la fauna Realizado por: Esaud E. Chaves Picado y Jennifer Hernández Sánchez]]></summary></entry><entry><title type="html">ANÁLISIS DE LOS ACUÍFEROS DE LA REGIÓN DE GUANACASTE SEGÚN LOS DATOS DEL SISTEMA DE MONITOREO DE ACUÍFEROS EN TIEMPO REAL (SIMASTIR)</title><link href="https://redbioma.org/jekyll-theme-yat/proyectos/2024-04-python-ciencia-datos/analisis-acuiferos-guanacaste.html" rel="alternate" type="text/html" title="ANÁLISIS DE LOS ACUÍFEROS DE LA REGIÓN DE GUANACASTE SEGÚN LOS DATOS DEL SISTEMA DE MONITOREO DE ACUÍFEROS EN TIEMPO REAL (SIMASTIR)" /><published>2024-07-10T00:00:00+00:00</published><updated>2024-07-10T00:00:00+00:00</updated><id>https://redbioma.org/jekyll-theme-yat/proyectos/2024-04-python-ciencia-datos/esmeralda_vargas</id><content type="html" xml:base="https://redbioma.org/jekyll-theme-yat/proyectos/2024-04-python-ciencia-datos/analisis-acuiferos-guanacaste.html"><![CDATA[<h1 id="análisis-de-los-acuíferos-de-la-región-de-guanacaste-según-los-datos-del-sistema-de-monitoreo-de-acuíferos-en-tiempo-real-simastir">ANÁLISIS DE LOS ACUÍFEROS DE LA REGIÓN DE GUANACASTE SEGÚN LOS DATOS DEL SISTEMA DE MONITOREO DE ACUÍFEROS EN TIEMPO REAL (SIMASTIR)</h1>
+<h2 style="color: gray; font-weight: normal;">
+Realizado por: Esmeralda Vargas Madrigal, Alexander Barrantes Herrera y Valeria Solis Monge
+</h2>
+
+<hr />
+
+<p><br /><br /></p>
+
+<h1 id="presentación">Presentación</h1>
+
+<p><img src="https://youtu.be/o-96xgolR_A?si=A9Jf6G54KN-ylHzT" alt="video de clase" /></p>
+
+<p><br /></p>
+
+<h1 id="cuaderno-de-jupyter">Cuaderno de Jupyter</h1>
+
+<iframe src="/assets/html/esmeralda_vargas.html" width="100%" height="600" style="border: 1px solid #ccc;"></iframe>]]></content><author><name>PKiwi_03</name></author><summary type="html"><![CDATA[ANÁLISIS DE LOS ACUÍFEROS DE LA REGIÓN DE GUANACASTE SEGÚN LOS DATOS DEL SISTEMA DE MONITOREO DE ACUÍFEROS EN TIEMPO REAL (SIMASTIR) Realizado por: Esmeralda Vargas Madrigal, Alexander Barrantes Herrera y Valeria Solis Monge]]></summary></entry><entry><title type="html">El Pago Por Servicios Ambientales Una Herramienta Económica para la Protección de los Recursos Naturales en Costa Rica.</title><link href="https://redbioma.org/jekyll-theme-yat/proyectos/2024-04-python-ciencia-datos/pago-servicios-ambientales.html" rel="alternate" type="text/html" title="El Pago Por Servicios Ambientales Una Herramienta Económica para la Protección de los Recursos Naturales en Costa Rica." /><published>2024-07-10T00:00:00+00:00</published><updated>2024-07-10T00:00:00+00:00</updated><id>https://redbioma.org/jekyll-theme-yat/proyectos/2024-04-python-ciencia-datos/francisco_garcia</id><content type="html" xml:base="https://redbioma.org/jekyll-theme-yat/proyectos/2024-04-python-ciencia-datos/pago-servicios-ambientales.html"><![CDATA[<h1 id="el-pago-por-servicios-ambientales-una-herramienta-económica-para-la-protección-de-los-recursos-naturales-en-costa-rica">El Pago Por Servicios Ambientales: Una Herramienta Económica para la Protección de los Recursos Naturales en Costa Rica.</h1>
+<h2 style="color: gray; font-weight: normal;">
+Realizado por: Francisco García Gruz y Víctor Sojo Chaves
+</h2>
+<hr />
+
+<p><br /><br /></p>
+
+<h1 id="presentación">Presentación</h1>
+
+<p><img src="https://youtu.be/MUx5QoMp5ZI?si=Jo-fMMEpRhhWYBs1" alt="video de clase" /></p>
+
+<p><br /></p>
+
+<h1 id="cuaderno-de-jupyter">Cuaderno de Jupyter</h1>
+
+<iframe src="/assets/html/francisco_garcia.html" width="100%" height="600" style="border: 1px solid #ccc;"></iframe>]]></content><author><name>PKiwi_03</name></author><summary type="html"><![CDATA[El Pago Por Servicios Ambientales: Una Herramienta Económica para la Protección de los Recursos Naturales en Costa Rica. Realizado por: Francisco García Gruz y Víctor Sojo Chaves]]></summary></entry></feed>
