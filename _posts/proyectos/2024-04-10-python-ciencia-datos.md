@@ -1,7 +1,7 @@
 ---
 layout: post
 author: sjcr23
-title: Python para Ciencia de Datos (Abr 2024)
+title: Python para ciencia de datos (Abr 2024)
 subtitle: Directorio de los proyectos del curso
 categories: [Proyectos de curso]
 hidden: [related_posts, navigator]

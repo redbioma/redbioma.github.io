@@ -1,7 +1,7 @@
 ---
 layout: post
 author: PKiwi_03
-title: Programa del curso Lenguaje de Programación R
+title: Programa del curso Lenguaje de programación R
 categories: Cursos
 hidden: [related_posts, navigator]
 permalink: "/:categories/:year-:month-:title.html"
@@ -98,7 +98,7 @@ El programa del curso es teórico/práctico donde los participantes pondrán en 
     </ol>
     <b><li>Manejo de datos (1 sesión de 2 horas).</li></b>
     <ol type="i">
-        <li>Flujo de trabajo en Ciencia de Datos.</li>
+        <li>Flujo de trabajo en ciencia de datos.</li>
         <li>Paquetes.</li>
         <li>I/O datos.</li>
     </ol>

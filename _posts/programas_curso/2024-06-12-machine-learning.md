@@ -1,7 +1,7 @@
 ---
 layout: post
 author: sjcr23
-title: Programa del curso Aprendizaje Automático Aplicado a Datos de Biodiversidad
+title: Programa del curso Aprendizaje automático aplicado a datos de biodiversidad
 categories: Cursos
 hidden: [related_posts, navigator]
 permalink: "/:categories/:year-:month-:title.html"
@@ -24,9 +24,9 @@ top: 3
 
 ## Descripción
 <div style="text-align: justify">
-La Inteligencia Artificial y en particular, la rama del Aprendizaje Automático ha tenido un crecimiento acelerado en los últimos años existiendo una gran diversidad de técnicas que pueden ser utilizadas en forma individual o en conjunto para analizar, extraer patrones y generar nuevos datos en innumerables áreas de aplicación, lo que ha permitido importantes avances en dichas disciplinas. 
+La inteligencia artificial y en particular, la rama del aprendizaje automático ha tenido un crecimiento acelerado en los últimos años existiendo una gran diversidad de técnicas que pueden ser utilizadas en forma individual o en conjunto para analizar, extraer patrones y generar nuevos datos en innumerables áreas de aplicación, lo que ha permitido importantes avances en dichas disciplinas. 
 <br><br>
-Este curso surge en respuesta a las necesidades de capacitación en diferentes áreas de la Ciencia de Datos diagnosticadas por la Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana (redbioma). Está dirigido a profesionales que se desempeñan en actividades relacionadas con la Conservación de la Biodiversidad, por lo que se encuentra enfocado en la solución de problemas y el desarrollo de conocimientos y habilidades en el diseño e implementación de modelos simples de Aprendizaje Automático (utilizando el lenguaje Python) aplicados a conjuntos de datos afines con las áreas profesionales de los participantes.
+Este curso surge en respuesta a las necesidades de capacitación en diferentes áreas de la ciencia de datos diagnosticadas por la Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana (redbioma). Está dirigido a profesionales que se desempeñan en actividades relacionadas con la conservación de la biodiversidad, por lo que se encuentra enfocado en la solución de problemas y el desarrollo de conocimientos y habilidades en el diseño e implementación de modelos simples de aprendizaje automático (utilizando el lenguaje Python) aplicados a conjuntos de datos afines con las áreas profesionales de los participantes.
 
 <br><br>
 
@@ -51,7 +51,7 @@ El curso se impartirá en dos grupos independientes en los siguientes horarios:
 <ul>
 <li>Tener disponibilidad de al menos 16 horas durante todo el programa para asistir a ocho sesiones sincrónicas virtuales de clases. (2hrs / clase)</li>
 <li>Tener disponibilidad de al menos 24 horas durante todo el programa para realizar tareas cortas, los laboratorios prácticos del curso y un proyecto final. (3hrs / semana)</li>
-<li>Conocimientos básicos del lenguaje de programación Python, bibliotecas Numpy y Pandas para el manejo de datos y generalidades de la representación de datos geoespaciales. De preferencia haber aprobado el curso de Introducción a Python para Ciencia de Datos, que se ofrece como parte de este Programa de Capacitación.</li>
+<li>Conocimientos básicos del lenguaje de programación Python, bibliotecas Numpy y Pandas para el manejo de datos y generalidades de la representación de datos geoespaciales. De preferencia haber aprobado el curso de Introducción a Python para ciencia de datos, que se ofrece como parte de este programa de capacitación.</li>
 
 
 <li>Llenar el formulario para <a href="https://forms.gle/gq98uQN32xz9uBx87">Participar en las actividades de la redbioma.</a> (anteriormente circulado, por favor llenarlo una sola vez)</li>
@@ -66,7 +66,7 @@ Enlace: [Inscripciones Aprendizaje Automático Aplicado a Datos de Biodiversidad
 
 ### General
 <div style="text-align: justify">
-El desarrollo de habilidades de solución de problemas simples relacionados a la Conservación de la Biodiversidad utilizando técnicas de aprendizaje automático y la comprensión de esta rama de la Ciencia de Datos/Inteligencia Artificial y sus desafíos actuales.
+El desarrollo de habilidades de solución de problemas simples relacionados a la Conservación de la Biodiversidad utilizando técnicas de aprendizaje automático y la comprensión de esta rama de la ciencia de datos/inteligencia artificial y sus desafíos actuales.
 </div>
 
 ### Específicos
@@ -75,7 +75,7 @@ El desarrollo de habilidades de solución de problemas simples relacionados a la
     <li>Construir una comprensión sólida de los conceptos básicos, ciclo del desarrollo del aprendizaje automático, técnicas de visualización, así como el rol de los datos en dicho proceso que le permita al estudiante identificar el conjunto de habilidades de aprendizaje automático requeridas para su desarrollo profesional presente y futuro.
 </li>
     <li>Identificar el tipo de aprendizaje automático apropiado para cada tipo de problema.</li>
-    <li>Construir modelos simples basados en una selección de técnicas de aprendizaje supervisado, no supervisado, semi supervisado, y aprendizaje profundo pertinentes a la Conservación de la Biodiversidad.</li>
+    <li>Construir modelos simples basados en una selección de técnicas de aprendizaje supervisado, no supervisado, semi supervisado, y aprendizaje profundo pertinentes a la conservación de la biodiversidad.</li>
     
 </ul>
 </div>
@@ -115,27 +115,27 @@ El programa del curso es teórico/práctico donde los participantes pondrán en 
     <b><li>Aprendizaje supervisado</li></b>
     <ol type="i">
         <li>Descripción de técnicas de aprendizaje automático supervisado.</li>
-        <li>Construcción de modelos simples basados en técnicas de aprendizaje supervisado pertinentes a la Conservación de la Biodiversidad. </li>
+        <li>Construcción de modelos simples basados en técnicas de aprendizaje supervisado pertinentes a la conservación de la biodiversidad. </li>
     </ol>
     <b><li>Aprendizaje no supervisado</li></b>
     <ol type="i">
         <li>Descripción de técnicas de aprendizaje automático no supervisado.</li>
-        <li>Construcción de modelos simples basados en técnicas de aprendizaje no supervisado pertinentes a la Conservación de la Biodiversidad.</li>
+        <li>Construcción de modelos simples basados en técnicas de aprendizaje no supervisado pertinentes a la conservación de la biodiversidad.</li>
     </ol>
     <b><li>Aprendizaje semi supervisado.</li></b>
     <ol type="i">
         <li>Descripción de técnicas de aprendizaje automático semi supervisado.</li>
-        <li>Construcción de modelos simples basados en técnicas de aprendizaje semi supervisado pertinentes a la Conservación de la Biodiversidad.</li>
+        <li>Construcción de modelos simples basados en técnicas de aprendizaje semi supervisado pertinentes a la conservación de la biodiversidad.</li>
     </ol>
     <b><li>Aprendizaje profundo.</li></b>
     <ol type="i">
         <li>Descripción de técnicas de aprendizaje automático profundo.</li>
-        <li>Construcción de modelos simples basados en técnicas de aprendizaje profundo pertinentes a la Conservación de la Biodiversidad. <a href="#referencias">[3,4]</a></li>
+        <li>Construcción de modelos simples basados en técnicas de aprendizaje profundo pertinentes a la conservación de la biodiversidad. <a href="#referencias">[3,4]</a></li>
     </ol>
     <b><li>Reflexiones finales</li></b>
     <ol type="i">
         <li>Retos y riesgos del aprendizaje automático. <a href="#referencias">[5]</a></li>
-        <li>Oportunidades de aplicación en el área de la Conservación de la Biodiversidad.</li>
+        <li>Oportunidades de aplicación en el área de la conservación de la biodiversidad.</li>
     </ol>
 
 </ol>

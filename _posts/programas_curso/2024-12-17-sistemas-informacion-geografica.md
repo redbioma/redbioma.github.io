@@ -1,7 +1,7 @@
 ---
 layout: post
 author: biarretam
-title: Programa del curso Procesamiento de Datos Geoespaciales de Biodiversidad mediante el lenguaje de programación Python
+title: Programa del curso Procesamiento de datos geoespaciales de biodiversidad mediante el lenguaje de programación Python
 categories: Cursos
 hidden: [related_posts, navigator]
 permalink: "/:categories/:year-:month-:title.html"
@@ -155,8 +155,9 @@ Las personas estudiantes llevarán a cabo tareas y un proyecto final, los rubros
 
 | Rubro | Valor (%) |
 | ----- | :-------: |
-| Tareas | 70 |
-| Proyecto final | 30 |
+| Asistencias | 30 |
+| Tareas | 30 |
+| Proyecto final | 40 |
 | Total | 100 |
 
 ## Cronograma de clases

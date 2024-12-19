@@ -1,7 +1,7 @@
 ---
 layout: post
 author: sjcr23
-title: Programa del curso Introducción a Python para Ciencia de Datos
+title: Programa del curso Introducción a Python para ciencia de datos
 categories: Cursos
 hidden: [related_posts, navigator]
 permalink: "/:categories/:year-:month-:title.html"
@@ -18,7 +18,7 @@ banner:
 
 ## Descripción
 <div style="text-align: justify">
-El presente curso está enfocado a introducir conceptos básicos de Ciencia de Datos a través del lenguaje de programación Python. A lo largo del curso, las personas estudiantes aprenderán la sintaxis y semántica necesaria del lenguaje para lograr un fundamento sólido de conocimientos que les ayudarán a realizar futuros proyectos en el área de aplicación.
+El presente curso está enfocado a introducir conceptos básicos de ciencia de datos a través del lenguaje de programación Python. A lo largo del curso, las personas estudiantes aprenderán la sintaxis y semántica necesaria del lenguaje para lograr un fundamento sólido de conocimientos que les ayudarán a realizar futuros proyectos en el área de aplicación.
 <br><br>
 
 <b>Horario y fecha de inicio</b>
@@ -49,13 +49,13 @@ El curso se impartirá en dos grupos independientes en los siguientes horarios:
 </div>
 
 ## Formulario de inscripción (Cupos limitados)
-Enlace: [Inscripciones Python para Ciencia de Datos](https://forms.gle/XbZCbuSoV33FiPc1A)
+Enlace: [Inscripciones Python para ciencia de datos](https://forms.gle/XbZCbuSoV33FiPc1A)
 
 ## Objetivos
 
 ### General
 <div style="text-align: justify">
-Este programa de introducción a Python está diseñado para proporcionar una comprensión sólida de los conceptos básicos de la programación y los fundamentos de Python a través de lecciones teóricas y prácticas que permitan desarrollar capacidades en Ciencia de Datos en las personas participantes.
+Este programa de introducción a Python está diseñado para proporcionar una comprensión sólida de los conceptos básicos de la programación y los fundamentos de Python a través de lecciones teóricas y prácticas que permitan desarrollar capacidades en ciencia de datos en las personas participantes.
 </div>
 
 ### Específicos
@@ -63,7 +63,7 @@ Este programa de introducción a Python está diseñado para proporcionar una co
 <ul>
     <li>Construir  una comprensión sólida de la sintaxis básica de Python utilizada para  escribir y ejecutar código en el lenguaje.</li>
     <li>Experimentar con los conceptos básicos de programación, incluyendo variables, tipos de datos, estructuras de datos, funciones, programación orientada a objetos (POO), y graficación de datos.</li>
-    <li>Desarrollar conceptos relacionados con el tema de Ciencia de Datos, por ejemplo: álgebra lineal, aprendizaje automático, análisis exploratorio de datos, sistemas de información geográficos, entre otros.</li>
+    <li>Desarrollar conceptos relacionados con el tema de ciencia de datos, por ejemplo: álgebra lineal, aprendizaje automático, análisis exploratorio de datos, sistemas de información geográficos, entre otros.</li>
     <li>Aplicar los conocimientos y habilidades adquiridos a través de laboratorios prácticos, para consolidar el aprendizaje y desarrollar habilidades en la programación de Python.</li>
     <li>Desarrollar proyectos de investigación aplicados a la conservación de la biodiversidad.</li>
 </ul>

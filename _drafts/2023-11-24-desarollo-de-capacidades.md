@@ -2,7 +2,7 @@
 layout: post
 author: sjcr23
 title: Desarrollo de Capacidades
-subtitle: Formando mujeres líderes en Ciencia de Datos
+subtitle: Formando mujeres líderes en ciencia de datos
 categories: Actividades
 tags: Python ITCR DataScience
 banner: 

@@ -8,22 +8,16 @@ author: María Mora Cross
 ---
 
 
-# Cursos activos
-
-| Programa del curso | Fecha de inicio | Fecha de fin | Formulario de inscripcion |
-| -------------------------------------------------------------------- | :--------: | :--------: | ------------------------- |
-| [Introducción a Python para Ciencia de Datos][python_julio] | 03/04/2024 | 28/05/2024 | [Inscripciones Python para Ciencia de Datos][python_julio_form] |
-| [Aprendizaje Automático Aplicado a Datos de Biodiversidad][ML_julio] | 08/07/2024 | 26/08/2024 | [Inscripciones Aprendizaje Automático Aplicado a Datos de Biodiversidad][ML_julio_form] |
-| [Programa de Ciencia de Datos][ds_julio]                             | 08/07/2024 | 26/08/2024 | [Inscripciones Programa de Ciencia de Datos][ds_julio_form] |
-| [Lenguaje de Programación R][lenguaje_R]                             | 09/10/2024 |  04/12/2024 | [Inscripciones Lenguaje de Programación R][lenguaje_R_form] |
-| [Procesamiento de Datos Geoespaciales de Biodiversidad mediante el lenguaje de programación Python][GIS]                             | 13/01/2025 |  03/03/2025 | [Inscripciones Procesamiento de Datos Geoespaciales][GIS_form] |
-
-
-# Cursos finalizados
+# Cursos
 
 | Programa del curso | Fecha de inicio | Fecha de fin | Formulario de inscripcion | Proyectos del curso |
 | ----------------------------------------------------------- | :--------: | :--------: | ------------------------- | ------------------ |
-| [Introducción a Python para Ciencia de Datos][python_abril]          | 24/07/2024 | 11/09/2024 | [Inscripciones Python para Ciencia de Datos][python_abril_form] | [Python para Ciencia de Datos 04/2024][python_abril_proyectos]|
+| [Procesamiento de datos geoespaciales de biodiversidad mediante el lenguaje de programación Python][GIS]                             | 13/01/2025 |  03/03/2025 | [Inscripciones Procesamiento de datos geoespaciales][GIS_form] | En proceso |
+| [Programa de ciencia de datos][ds_julio]                             | 10/10/2024 | 19/12/2024 | [Inscripciones Programa de ciencia de datos][ds_julio_form] | En proceso |
+| [Lenguaje de programación R][lenguaje_R]                             | 09/10/2024 |  11/12/2024 | [Inscripciones Lenguaje de programación R][lenguaje_R_form] | En proceso |
+| [Introducción a Python para ciencia de datos][python_julio] | 24/07/2024 | 11/09/2024 | [Inscripciones Python para ciencia de datos][python_julio_form] | En proceso |
+| [Aprendizaje automático aplicado a datos de biodiversidad][ML_julio] | 08/07/2024 | 26/08/2024 | [Inscripciones Aprendizaje automático aplicado a datos de biodiversidad][ML_julio_form] | En proceso |
+| [Introducción a Python para ciencia de datos][python_abril]          | 03/04/2024 | 28/05/2024 | [Inscripciones Python para ciencia de datos][python_abril_form] | [Python para ciencia de datos 04/2024][python_abril_proyectos]|
 
 
 <!-- Python Julio 2024-->
