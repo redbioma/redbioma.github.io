@@ -16,6 +16,7 @@ author: María Mora Cross
 | [Aprendizaje Automático Aplicado a Datos de Biodiversidad][ML_julio] | 08/07/2024 | 26/08/2024 | [Inscripciones Aprendizaje Automático Aplicado a Datos de Biodiversidad][ML_julio_form] |
 | [Programa de Ciencia de Datos][ds_julio]                             | 08/07/2024 | 26/08/2024 | [Inscripciones Programa de Ciencia de Datos][ds_julio_form] |
 | [Lenguaje de Programación R][lenguaje_R]                             | 09/10/2024 |  04/12/2024 | [Inscripciones Lenguaje de Programación R][lenguaje_R_form] |
+| [Procesamiento de Datos Geoespaciales de Biodiversidad mediante el lenguaje de programación Python][GIS]                             | 13/01/2025 |  03/03/2025 | [Inscripciones Procesamiento de Datos Geoespaciales][GIS_form] |
 
 
 # Cursos finalizados
@@ -45,3 +46,7 @@ author: María Mora Cross
 <!-- Lenguaje de Programación R-->
 [lenguaje_R]:/cursos/2024-08-lenguaje-programacion-R.html
 [lenguaje_R_form]: https://docs.google.com/forms/d/e/1FAIpQLSdND7N3UCjgXMbDp6ULa6TGbbnYhrCSA0rpcvrNhqKR1D42rQ/viewform?usp=sharing
+
+<!-- GIS-->
+[GIS]:/cursos/2024-12-sistemas-informacion-geografica.html
+[GIS_form]: https://docs.google.com/forms/d/e/1FAIpQLSeb35GlNsgWKTpKUINvkFK-hNwGk1J4aXpGy2oXYcNmMkUeLg/viewform
