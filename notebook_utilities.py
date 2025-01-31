@@ -62,8 +62,8 @@ def rename_files_in_directory(directory):
 
 if __name__ == "__main__":
     # Configurar las carpetas fuente y destino
-    source_folder = "assets/jupyter/2024-07-python"
-    destination_folder = "assets/html/2024-07-python"
+    source_folder = "assets/jupyter/2024-07-ml"
+    destination_folder = "assets/html/2024-07-ml"
 
     convert_notebooks_to_html(source_folder, destination_folder)
     rename_files_in_directory(destination_folder)
