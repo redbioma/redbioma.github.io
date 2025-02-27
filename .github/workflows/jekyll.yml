@@ -50,6 +50,9 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v4
+      - name: Debug Installed Packages
+        run: pacman -Q | grep ruby || echo "No Ruby packages found"
+
 
   # Deployment job
   deploy:
