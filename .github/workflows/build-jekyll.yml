@@ -26,12 +26,6 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
 
-      # Install Bundler and Gems
-      - name: Install Bundler and Gems
-        run: |
-          gem install bundler
-          bundle install
-
       # Use GitHub Deploy Action to build and deploy to Github
       - uses: jeffreytse/jekyll-deploy-action@v0.5.1
         with:
