@@ -7,17 +7,30 @@ on:
 
 jobs:
   build_and_deploy:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v2
+
+      # Install Ruby 3.1
+      - name: Install Ruby 3.1
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ruby-full
+          ruby -v
 
       # Use GitHub Actions' cache to cache dependencies on servers
       - uses: actions/cache@v1
         with:
           path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}-2
           restore-keys: |
             ${{ runner.os }}-gems-
+
+      # Install Bundler and Gems
+      - name: Install Bundler and Gems
+        run: |
+          gem install bundler
+          bundle install
 
       # Use GitHub Deploy Action to build and deploy to Github
       - uses: jeffreytse/jekyll-deploy-action@v0.5.1
