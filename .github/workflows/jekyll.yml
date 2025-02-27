@@ -50,7 +50,7 @@ jobs:
 
        # Check if '_site'
       - name: Debug Jekyll Build 
-        run: ls -l _site
+        run: ls -l _site || echo "_site directory does not exist"
 
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
