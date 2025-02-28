@@ -88,14 +88,14 @@ El curso es teórico-práctico, por lo que en las sesiones sincrónicas se dispo
 ## Contenidos del programa
 <div style="text-align: justify">
 <ol>
-    <b><li>Introducción a la Planeación Sistemática de la Conservación.</li></b>
+    <b><li>Introducción a la Planeación sistemática de la conservación.</li></b>
     <ol type="i">
         <li>Conceptos clave y enfoques en conservación.</li>
         <li>Importancia de la planeación sistemática y el análisis espacial.</li>
         <li>Etapas de la planeación sistemática de la conservación.</li>
-        <li>Softwares para la planeación sistemática de la conservación.</li>
+        <li>Software para la planeación sistemática de la conservación.</li>
     </ol>
-    <b><li>Datos para Análisis de Prioridades de Conservación.</li></b>
+    <b><li>Datos para análisis de prioridades de conservación.</li></b>
     <ol type="i">
         <li>Tipos de datos utilizados en <b>Zonation</b>.</li>
         <li>Fuentes de datos espaciales (biodiversidad, amenazas, usos del suelo).</li>
@@ -113,7 +113,7 @@ El curso es teórico-práctico, por lo que en las sesiones sincrónicas se dispo
         <li>Configuración de parámetros en <b>Zonation</b>.</li>
         <li>Ejecución y análisis preliminar de resultados.</li>
     </ol>
-    <b><li>Interpretación y visualización de Resultados.</li></b>
+    <b><li>Interpretación y visualización de resultados.</li></b>
     <ol type="i">
         <li>Mapas de priorización y su interpretación.</li>
         <li>Exportación de resultados y análisis en SIG.</li>
