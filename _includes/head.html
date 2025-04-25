@@ -18,4 +18,9 @@
   {%- include extensions/code-highlight.html -%}
   {%- include extensions/photo-swipe.html -%}
   {%- include custom-head.html -%}
+
+  <!--{% if site.google_analytics and jekyll.environment == 'production' %}-->
+  {% if site.google_analytics %}
+  {% include analytics.html %}
+  {% endif %}
 </head>

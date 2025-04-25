@@ -251,3 +251,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-spaceship
+
+# Google Analytics
+google_analytics: G-VH7BXQ6BF5
