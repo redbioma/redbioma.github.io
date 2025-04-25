@@ -1,27 +1,54 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0;url=https://www.redbioma.org">
+    <title>Redirecting...</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+            font-family: 'Segoe UI', sans-serif;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
 
-  {%- include head.html -%}
+        .container {
+            text-align: center;
+        }
 
-  <body>
+        img {
+            width: 28%;
+            margin-bottom: 20px;
+        }
 
-    {%- include views/header.html -%}
+        h1 {
+            color: #FE5007;
+            margin: 0 0 10px;
+        }
 
-    {%- include views/banner.html -%}
+        p {
+            color: #2e2e2e;;
+            font-size: 1.1em;
+            margin: 0;
+        }
 
-    {%- include extensions/hashlocate.html -%}
+        a {
+            color: #2E4700;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+  <div class="container">
+    <img src="assets\images\icons\loading.png" alt="Cargando...">
+    <h1>Un momento, estamos redirigiendo a www.redbioma.org...</h1>
+    <p>Si no es redirigido automáticamente, por favor <a href="https://www.redbioma.org"> hacer clic aqui</a>.</p>
+  </div>
+</body>
+</html>
 
-    <!-- {%- include extensions/theme-toggle.html -%} -->
-
-    {%- include extensions/click-to-top.html -%}
-
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-
-    {%- include views/footer.html -%}
-
-  </body>
 </html>
