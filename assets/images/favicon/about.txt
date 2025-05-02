@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Esteban
+- Font Author: Copyright (c) 2011, Angelica Diaz Rivera (www.typereview.wordpress.com), with Reserved Font Name "Esteban"
+- Font Source: http://fonts.gstatic.com/s/esteban/v15/r05bGLZE-bdGdN-GdOuD5jokU8E.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
